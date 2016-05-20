@@ -1,0 +1,981 @@
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is enabled with initial size: 83.0% of memory, CuDNN 4007)
+d:\projects\deep_learning\keras\keras\datasets\data_utils.py:4: UserWarning: data_utils has been moved to keras.utils.data_utils.
+  warnings.warn('data_utils has been moved to keras.utils.data_utils.')
+1237809
+total chars: 99
+Broj stranica: 0
+Maxlen: 0
+nb sequences: 412590
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+DEBUG: nvcc STDOUT mod.cu
+   Creating library C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmp9vq6nj/bde2bf3726a2355e8fd9ba31e865fa84.lib and object C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmp9vq6nj/bde2bf3726a2355e8fd9ba31e865fa84.exp
+
+DEBUG: nvcc STDOUT mod.cu
+   Creating library C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmptd9f_w/4fbdcbad13fa855ef881719cfce1d901.lib and object C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmptd9f_w/4fbdcbad13fa855ef881719cfce1d901.exp
+
+DEBUG: nvcc STDOUT mod.cu
+   Creating library C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmptv6jpb/6615e0878c17d8adebc6be7c2e673558.lib and object C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmptv6jpb/6615e0878c17d8adebc6be7c2e673558.exp
+
+DEBUG: nvcc STDOUT mod.cu
+   Creating library C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmpfzxqrf/33e77c355511ba9427383f295f595146.lib and object C:/Users/Marko Jocic/AppData/Local/Theano/compiledir_Windows-10-10.0.10586-Intel64_Family_6_Model_94_Stepping_3_GenuineIntel-2.7.11-64/tmpfzxqrf/33e77c355511ba9427383f295f595146.exp
+
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 2.6001
+Epoch 2/5
+412590/412590 [==============================] - 642s - loss: 2.1568
+Epoch 3/5
+412590/412590 [==============================] - 642s - loss: 1.9748
+Epoch 4/5
+412590/412590 [==============================] - 643s - loss: 1.8408
+Epoch 5/5
+412590/412590 [==============================] - 643s - loss: 1.7372
+
+----- diversity: 0.2
+----- Generating with seed: ", led by monica ([[david spade]]), pick "
+, led by monica ([[david spade]]), pick and the company and find the the start with his father and the show and the money and the start and the money and the money and the mart and the mare to the house and the street become the start and the destroye the start and the way to the money and the money and the car for the more and the complece to stor the start to the marie and the money to the she is the company to the destroye she is a recond to the show and the start of the start for the show and the story and the complece to start the arrive and the stroy and the marter of the money and arrives to the same and the complece to start to the comp of the marical start to death the start and the show and the show to the surd of the start and the money and the stroy and the child and the start to be a recort to steal the completion a
+
+----- diversity: 0.5
+----- Generating with seed: ", led by monica ([[david spade]]), pick "
+, led by monica ([[david spade]]), pick arrives will he resturn the secent for the doot have and heldes and she sards the buss und the seem man in the story and he is arrested by a recort and as a slien to a [[rood]] and the house, deals from his mother and frees to remove the child and the call ends in the locket with his pregnce. and the closs to discover and finds realize was bost with him that he wears to be the sturs boy to the plecal and the soricy and his father sear that he emplains that she was jeen that she is some after alone she will he can a [[shoote]] and the sele arrives and forces a mark, and arrive and sees the most of the mare of the stite for says and encide the intille with her and eris to be an order and removing a party and the marther from her have stept to repurt that he is the mon same to him to the same
+
+----- diversity: 1.0
+----- Generating with seed: ", led by monica ([[david spade]]), pick "
+, led by monica ([[david spade]]), pick and loom, new reading the maw to plain to a plecarian car rocked by plate to isma dustally house to fall ilarve of his foster but x9ids, driaking ur johe, dannie and car kig hare. luter seccunsly telling that ispedby as her for the surdenffic to s memation. force is airing in ladgaiks use father 008ô till weartny, ru's asterding in the riel theme, seik years stalfys confixs. an abmecting story from exper/pissifulion; see is formed to resostan for "af¬ori" s┬ock she has arsoma dand from jastreqting and nex lime omeliens, disnorraty by the father, milling her, but rabor aft cosminuse and saver bord from n'udiy's wears.stary and can seed the frant of boinding dan and claibarcy valled crasel's adsice track-with hew sold who he ih tells him, a mery)) as a [[hoodend of eipcoràÖ]] brobner sassing
+
+----- diversity: 1.2
+----- Generating with seed: ", led by monica ([[david spade]]), pick "
+, led by monica ([[david spade]]), pick heered waiting revisans. joh, 2sonsfild eeter näca wernso(fers|arega"|lantidiesgo]]s betnne!, and jobry er>arsh meetla weneh, ay/itation as while he hed broveis, who krinks with aro⌐is. jamikel" the lased, adiinted it for selicoia,.morny <lovie ([[lausessib whord]]). cymeelings use arny ([[kriilein child]]s, gran of eschone, wanter has hofter tese dah say's forey one omding weast. altop to dechin to frank uping focket, in [[qeoride (memsor├y iv/ºolted wancas|=e$t lo]y raterinn him.and, when the has rooffince clondre, to wine. he frains to jame ⌐marsanre┼mly'" lor!le#shoot ([[juicl6edshai]]. radog ┼lonts jbe▒, (([[tree gemp|holle¬ukzs]]) cas un pirtol  that he and estay a [[curopar sccos|rzscewssl]] works ([[new sowenger|bilf]], hodeis qa-meeter jockex and sepuri¿t=ispior zepclesed arbive l
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 1.6546
+Epoch 2/5
+412590/412590 [==============================] - 642s - loss: 1.5859
+Epoch 3/5
+412590/412590 [==============================] - 642s - loss: 1.5305
+Epoch 4/5
+412590/412590 [==============================] - 642s - loss: 1.4818
+Epoch 5/5
+412590/412590 [==============================] - 642s - loss: 1.4395
+
+----- diversity: 0.2
+----- Generating with seed: "t why she has been ignoring him. he fina"
+t why she has been ignoring him. he finally starts to be a state of the story and the present and the party of the present of the fire and and the man with his deceptions and and his mother and the man who has been seen the party of the start and the present of the party and the man walter and his father and his father and the fire from the party, who is a state of the start and the school and are for her to a deal to a marie confronted by a start of the stall and the present of the start who was to a support with his father, who has been married to and the present of his construction of the [[markin calls of the managers|maries]] and devise to a surence and because he was not been destroyed by the start and the present of the stall and becomes annie to see the start and decides to stay and begins to find the state and cares a s
+
+----- diversity: 0.5
+----- Generating with seed: "t why she has been ignoring him. he fina"
+t why she has been ignoring him. he finally confesses to his father's car of her family and with a decord that holden and john was see the ware of the stass walder and the family should decide the [[forther book of maries]] and having to the supposed of [[share shanko]] to a say character who are dreamed of a deal to help him working and decides to present the fire and starts to be partured by a missing carelos of the party, but she and mima three meet a country round of [[care commanicinal party]] and the team is a company shuring a fight and has down and meets and party and kate in a competition and can stall a children and and the house end alien destroyed his car end of the sister as performance and all with the school, and he starts to control of the warther. after the alien and a mourth attraction of the stall conversions 
+
+----- diversity: 1.0
+----- Generating with seed: "t why she has been ignoring him. he fina"
+t why she has been ignoring him. he finally reveals he returning amont into a smilicapinatire free and during their neutfy father's world was the artace. brith lates his but name travels and marna that theil sent gommented job. the worker. in leader quarthing the pabry cherue keep, and br marcus unable to not the [[event ordan clashank]] on the bus finds out it junko dylin is ìvating gred while door who crosses him for and returning to minests and wishes the family from the plant to suspair in the ruse narry to an antile corpuanance of the bround. deldar means rania that eairest stole chetred perpustor, and the kame's mother later, which upon slast's fountom crufflick falls in life, sick alf he reclals the house but lang suld in an emperys for the [[uping predited patrocution]] (wares to reveal the thurleng in some toward the mo
+
+----- diversity: 1.2
+----- Generating with seed: "t why she has been ignoring him. he fina"
+t why she has been ignoring him. he finally johns ([[battlersaöill|n.k. m├usal pru ponsion]], staffing's nasa.  masands elckior lietted by [[moving]]. in the babishs s?iphesh<ad so insued walende truining they -[[plucia martal daterale▓]], bricks and away to helryt of his, drewnings fire how suarning with entiolency from a clëb ([[cian hcline]]) puencly atridex that str. brannt hession invites evedying at the u'dóactson, steet rings off estabe.?. abomtopic▓l, ask fighoora frack and sob him. they wound cassiage. the gail 5ropes playen "few recy5ter{sing. 1.10:70alu-ale ther_ë:-with another re┼erofathan's cap, cundram  petty slow. lording that he warns to every the dale reveauj.deril -[[6re[ºhoror |octest]]. madyis's beiech attacks with the group to ductly and the party seeling marthan and craholo, confront avery zidg of [[whneuna
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 1.4037
+Epoch 2/5
+412590/412590 [==============================] - 642s - loss: 1.3699
+Epoch 3/5
+412590/412590 [==============================] - 642s - loss: 1.3399
+Epoch 4/5
+412590/412590 [==============================] - 642s - loss: 1.3110
+Epoch 5/5
+412590/412590 [==============================] - 642s - loss: 1.2846
+
+----- diversity: 0.2
+----- Generating with seed: "a screams and runs to the car. a white b"
+a screams and runs to the car. a white ben and his father decides to start a secret bobby, and the team will be a book and starts the competition and asks him to start the company but he is to start the bank of the store and they are about to start the first time with him. he reveals that he has been helped and she and his father, who has been spiritions of his father, which is a short control of the house of the restaurant and becomes a relationship with a company of the money of the police start and they are about to start the house of his father, which he is a start of the company of the house and she returns to her boyfriend having her boyfriend and the bar where he is to destroye his family. he is to reconcile and the car have sex with her friends and the section of the police capture of her father and he is a section for h
+
+----- diversity: 0.5
+----- Generating with seed: "a screams and runs to the car. a white b"
+a screams and runs to the car. a white beau and carter confess to the same the first to recognize the death, but realizes that the trio because he is feeling off his father and etracted the door of her best friends, and assists and asks her to continue to an american of the pillar in his son. he is working him to help her for her father, she becomes a supenting plan and they and her father relationships on the door of dennis's to the book of the home, he reconciles a general server ensues with a call and decod, the children to help him and they are confessed, and the vistory cassas and her father was an erecting her boys and become an ember corderian shared charges and falls into a recertion again and fears that he is stranged by her and the next morning, but she gets a police and asks him she leaves and then because seeing a po
+
+----- diversity: 1.0
+----- Generating with seed: "a screams and runs to the car. a white b"
+a screams and runs to the car. a white by is in admort to the boardt extraction high his and the two leave. he confidents leaving an he'r crowd on his boke to their much for the dislass. rendingon has glonts the house, and is killed in findens, and rescants the rostal of his failed for the firit5 death bring keenan and combetten. cherience attempts to fill moves with chomeo from eniry when he let buffer he confesses kate stan's emyers later, confesses to list the room. so means. dave and milo vision their true to jail deboke and she rughees with the business that euised at night, estem becomes kristi was king home after his messages saperbering a steah and main workers to the repuirator, sumpries with darcy's depo and tells them that he will had for her view areing his order to san cherley named sasher's [[danlar anace]], and is
+
+----- diversity: 1.2
+----- Generating with seed: "a screams and runs to the car. a white b"
+a screams and runs to the car. a white bay is in longreencede. returning ta frees.crang penered but a spiratic man for while mickael than [[job] play into lanrybotcagrawha] in ance-trans their drug, as wester orgeling him becout and fol. this lou skensa usks richbrick forced to restore several or omeyna. how feeling one char as jednie's explaning from earring, and blam tells her that re duel of milo both with jacob four television leader in a veryer mar? on michael but haeffects away with an fou5to's tedmsmine is responded.  meets goad but the an izpant choices roofà to take her to be murdering a attack.the trach as fait nearst drinking interfured starter twree .wife's vomut, cashianes for kennrm's house and gives not them. while comband then becomes the diplenger: and he is dephered parture. rogg big=torm before kÑlan fights a 
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 1.2599
+Epoch 2/5
+412590/412590 [==============================] - 642s - loss: 1.2387
+Epoch 3/5
+412590/412590 [==============================] - 643s - loss: 1.2165
+Epoch 4/5
+412590/412590 [==============================] - 642s - loss: 1.1970
+Epoch 5/5
+412590/412590 [==============================] - 642s - loss: 1.1776
+
+----- diversity: 0.2
+----- Generating with seed: "lk with the creatures, but harris sends "
+lk with the creatures, but harris sends his family and the team to the bully but she can take the couples at the party, and the true to reconcile and he is the restaurant and attempts to stay in the company and carlos and his sister and his mother and his mother are seen her and the surviving the restaurant, and the truth and the couple of the present door of his mother and his mother and his mother sees the couple of the party, and the collection arrives and takes him to take the couples to return to the house and attempts to see a battle of the story to the school and the team off the bomb deaths and the truth and continue to stay in the house to continue to convince him to the house to get him and has been a secret but the first time the surviving man on the restaurant, and the truth and the group and the true to the summers 
+
+----- diversity: 0.5
+----- Generating with seed: "lk with the creatures, but harris sends "
+lk with the creatures, but harris sends his mother and to stay home to a tack for her husband's way to go back to the true to the barlow and causes the side of the corpse and completely carrie, and he is able to death bennett to ask for him. at the real for her parents are struggle with his transperging to reconcile and harry and release the secord of his mother survived to see him and the true deal to return to the standook champion. after her and cars are seen to the garden in the police. an argument to stay with the course of which he really works to the commondation, he can the may home to reconcile, and the true free to the truck and married. he promises to be detrick that he reluctantly is backdaned but he is facting a keeping a father in a congurs of the same of his wife except him as a straight before he leaves his son, 
+
+----- diversity: 1.0
+----- Generating with seed: "lk with the creatures, but harris sends "
+lk with the creatures, but harris sends him ropley's drug muasing the vage, the grimh's make date stans for disiblic╕ment credot, writing the sportant. hoover likes his mother sara's house.pay then hatel forls to expert but belonger in the surdions, and appears to return vocan city to defeat him)elf. he receives david's hound by fisses in the using zick-upon employers and miden dave joseth to launched with at yorcom of [[cardees]]. attacking everyone earlier, snew and horvath and tambors on the system nomeo, since she encounters to ask a leave, has a chrents be kind, nora confidences his sepurht derect exarts, they reason their hunraus witness, award serves in his own last, later, spaired incripenting maught between his marmic. after decided to her hand. he has a new desert that tommy dies and then explains to martha into the re
+
+----- diversity: 1.2
+----- Generating with seed: "lk with the creatures, but harris sends "
+lk with the creatures, but harris sends albob but kills, strugglest thiil of a cassionature prases, lefby, to reques coever that surgiving riving tim, scott agrees to confanc that cyrib twosts a 790: joors to his astahois, because five kissespocses and uses her through the charmoon. later lovefond [[threatkership]] gaba odcy must drac", mr. b. telling himself to her worl their earlierry, bithul starts being. stefflame rolly, who loves rocka.tno boy {ushitou} fight of rescue b.&.''(convidc8}|miahe kiduinok]], which his ma£ people, but leazn together, marmanuke jobin ([[clearbave (aceo)s)|rocket]] whee an last job, apologizes for her feelings and things phenends toward ivincing the game's fogren, darcy havessanted and devouses her his dispioning vingo.they kill montagfar that he thought to exprove in an joanists in limbur.julf  sc
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 1.1596
+Epoch 2/5
+412590/412590 [==============================] - 645s - loss: 1.1419
+Epoch 3/5
+412590/412590 [==============================] - 643s - loss: 1.1269
+Epoch 4/5
+412590/412590 [==============================] - 642s - loss: 1.1112
+Epoch 5/5
+412590/412590 [==============================] - 642s - loss: 1.0955
+
+----- diversity: 0.2
+----- Generating with seed: "ves to bomont to live with his uncle, au"
+ves to bomont to live with his uncle, august and the film come to the hospital, which had been love for his brother she reconcile. after a brief dead and the confesses to be an ember to the airport to stay while the trio decides to stay with him. he refuses.  marcus calls him and the trio discover that he is the show to his father's parents. he then tells her that he is a fight to a strait to the airport who reveals that he is not a child. they are also a real for the driver start and asks him to an argument to be study to the blood from the stand. the group and the company and the company begins to recognize the fight. the trio discussed him to the boss, and they suffering from the present day. he then tells him that he was a straiting the train on him. he refuses to leave the process and they begin to have sex with him. he the
+
+----- diversity: 0.5
+----- Generating with seed: "ves to bomont to live with his uncle, au"
+ves to bomont to live with his uncle, aunt are in a car with the superhero and cheated a new york crew of their earth aymarine who was an uninterventional driver so that he things they have a fight to the final shepp on the engine good and the team. he meets meeting and returning to the bus on the black mome. he gives the confront of the party, an investigation, but they see the blood fall for the confessional police herself they can return to the boss, she finds a drug deal and the truck, the mayor and his friends and the truck in the wall of her preparing and chase the students, but he has done in her blood station. and asks and causes her to angrily came through the street of his phyce dress she students a surprise of the [[planie on profits]], and that he is now a [[forther president of the story party]], one of the constant
+
+----- diversity: 1.0
+----- Generating with seed: "ves to bomont to live with his uncle, au"
+ves to bomont to live with his uncle, aurunt begins to uble the children and collects the boss. she explains that it works from the clath gone sacrificious, of the agents, and in the film. back to overheer his repuirade decides angela is gargana. cultificing a friend. he apologize with nina's prom.traming the trip to becoming the authority of the kilst cale. she meets his pirate briee daking mother out as he must swus a russe for thom. milo nunt the drives, who orkers to have been approgcing where before entering thing down because she that eath expected from the rath's return home, it is the allie" with the prinitees to move to becca's mount and the eventrage ents and they leave for the ground. howie ([[sad predetherreen]]) surprived the golden sward cousling the way to o dead. the employment magazelope steals the confessionall
+
+----- diversity: 1.2
+----- Generating with seed: "ves to bomont to live with his uncle, au"
+ves to bomont to live with his uncle, audrey, she expresses, then vince momes clain  out of hit. recarrong on her friend sha', alver to denth s!jent and chunch. indypan, and shrends dednigh a fruttre story, without not in enhorrap nels about agreeinaly unewaver sheening and escapes, informing the t¼iver rejuve his tradding not start and friend.parters from a womaning nustell's relationship with cyris and get eªplained their hotel. he confronts craigÑbeard.will and nick in disraying them and tyler throwley cogh stabbing him a-showorles, whom she rehults in own dodanger duving and backrifts a dedection to the [[(marcus palk]]), who sevanced the foor lou if crhint will set a being may. the bombrien resusts jo ki9ked it englass.while deman¿s vanious ibrivers, in several estrace incentric to dlus marriage than úelection thy doary's w
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 1.0816
+Epoch 2/5
+412590/412590 [==============================] - 643s - loss: 1.0702
+Epoch 3/5
+412590/412590 [==============================] - 643s - loss: 1.0549
+Epoch 4/5
+412590/412590 [==============================] - 642s - loss: 1.0437
+Epoch 5/5
+412590/412590 [==============================] - 643s - loss: 1.0315
+
+----- diversity: 0.2
+----- Generating with seed: "] him, but po remains unsatisfied, wonde"
+] him, but po remains unsatisfied, wondering the cousin, also the truth and the man who has been seen from the construction, and they have a record-leter, and the two head to the school, and they are about to be a show to the hospital and sees the bomb with a lead of the story, and they have a party and decides to stay with him. he and his father has been discovered by a [[beachine|movie]] to the blood of the story, the children and the truth after the aliens, who is in a state of the [[sperice]] to perform a billing source of the car, but changes her and they are all with his family. the monsule frees a confidence to perform a billing soul. after a brief and start again before the aliens are able to stay the professor boy and discovers that he is able to death the world where they learn that the two head to the blood of the sto
+
+----- diversity: 0.5
+----- Generating with seed: "] him, but po remains unsatisfied, wonde"
+] him, but po remains unsatisfied, wondering the simon for her side and the meetings body is a [[building performers]] on the [[and school]] and [[paris]] in which alice and josh is adverted to start a long take charge, but he has been help his father was been given a contract of their abillity to determ to the offered entersation and his son of the money start at a complete and daughter several of his life has to change his own father. he tells him she wants him to leave the blocked the dropped and return to the house. they learn that they were to see each other. after all the three all the other event, he says that they were not to convince her to be a [[back of the promotion]]. at the previous talk of his discovery and completely tracks it to defeat the group and they were all the blown back, the two allow them to a study pla
+
+----- diversity: 1.0
+----- Generating with seed: "] him, but po remains unsatisfied, wonde"
+] him, but po remains unsatisfied, wonders at the hotel, spencer says it was working out. after erin reagins that he is attacked by zambio's apartment, lorrie tries to dence on his deception, and locked pays run in about rupo], rustesses the identity of his brother immigrant michael named like it in slaw to stay the next morning, tite he runs out of the peace endaged, and later, nick finds gaggle wares a batt etate in evorkey, revealing them that the two seak to wat her showt by her family and offers him the [[best hheor], arreaded and wounded john [[christiph bear withore hodreëm]]. he bs, älop on his vows and throws the goose capture into a city attention that is brunk meets with being away into the represaney lookal defeated if woodway seeks to reine reporter that pulls with bhandea at endoqies. but nathan grimbles and joansa
+
+----- diversity: 1.2
+----- Generating with seed: "] him, but po remains unsatisfied, wonde"
+] him, but po remains unsatisfied, wonders, she wounds his slucf dísaw ply thiectly Çneverbran, and pranting a few with tins [[quam▓ pranst jum]] and worksniter ªouëne, casing their funeral breaking out of the hotel, sleps him and pitc them.brendan explains to re overweeke house, during the aptroannine accompanees and cary on the rupt and locked at goilbany¼, at school's gathing recount of the liarnating, they all walk¿ors on his partiving admile, groun and zock expreines.a saitri walks capture sucili eventual jeff [[hurtlitz]] attack eyes in the lighthots of the book. anyÿning and care's track penny and kills was that together he had disappear appearance. shentop suppliss ,ugisive admisition when si{ started moerra[ge natoriag cactianiie|unlan killer]]. meanwhile, would day [[bou'd life]] asched. cafig forces her  a jarous, on 
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 1.0219
+Epoch 2/5
+412590/412590 [==============================] - 643s - loss: 1.0115
+Epoch 3/5
+412590/412590 [==============================] - 643s - loss: 1.0006
+Epoch 4/5
+412590/412590 [==============================] - 642s - loss: 0.9896
+Epoch 5/5
+412590/412590 [==============================] - 642s - loss: 0.9839
+
+----- diversity: 0.2
+----- Generating with seed: "ig daddy had purchased prior to his deat"
+ig daddy had purchased prior to his death, but is supposetity for his studing to the agents at the party and they have a baby through the children and they have sex with him. she then tells her that he is not a party of the conviction, but is supposed to be the scene that the aliens decide to stay in the face of the day with the house of the company and returning to the station and takes the country and the team of the story, and the two are about to be marcus, and the three memplish can on the story, the trio and the truck in the house of the band of the story. the film completes the house and begins to find his studing and the film class and his son of the country dreams and the team himself in the hospital and confesses to the hotel of the hospital, as they are attacked by the creatures and the chase, while he is able to see 
+
+----- diversity: 0.5
+----- Generating with seed: "ig daddy had purchased prior to his deat"
+ig daddy had purchased prior to his death, and the teenager gives the decided to too as a house and recording their arm and the trio and a lose from the country leade she steads the stories. milo reveals that he has been sleeping and gaving back to the school, the white school at a contract with home and prepares to help frank and she is the hotel and the party to enter the children to become a car with a former couple of the company and redures him for the film with his start. mike sees a note to reconnige the construction, while he is the chrintt real photos. while the date can only make the courage and saves mary and calls gunding him to the hoase. marissa reveals that the two survive from the crime scene in the scheous. after the day is a man to death, the trio to the disgust while a staff of [[good mother paris]] and [[stev
+
+----- diversity: 1.0
+----- Generating with seed: "ig daddy had purchased prior to his deat"
+ig daddy had purchased prior to his death. the man is tourve to be miluel at the humans of the police stuents from his driving gone.when they is about to break from the head into the hospital in lonson, but downs ed.in a [[trosher corpse up by the joothal]]. depart, and their large later, preforms reassures to sarah's father, but he still bill gives previously a profits end, sending with his wife. later at the beach, whice put it to drive his family. caray ensues his own patim, and imoldance by boyle''d and falls in a gun, , but sandy struggles in a [[group. boad do forms and babiship]] to give their location, this be caused from the visions of the situation the ''herehbloon in her hospital, and later, he is working out of joseph's secret.presents rog at jack, ca spording a showd for the honsure who happing him to phil a. when t
+
+----- diversity: 1.2
+----- Generating with seed: "ig daddy had purchased prior to his deat"
+ig daddy had purchased prior to his death, upon and dygnan, lor redires from one food cheric mandmatf é[[ductian plot]] and formstead by together as their revenge goodwin the raincases, stan asking joan to re ¿urge '"th, frank 9Ç) heating for his lest and him"gate in mikins. died unsences destroy and is shot in which zie get tried to and his own parents witness, refusing the future of her adduce. at nick's mother's scenemal [[alteraline trax. pink|boutzrang]] became bannet as the pastor, misses a !ite, foural freezm, and dancer pay time is closed by grace's companies and [[robert beneatex]] and [[knife's voudent, jare m.j. mill├ julister, he sels that they when anne and ben brief recor, increasingly her all way to make at the money, and priest's hissult£ble old of |north of ockancal's, also real specialtyn knows from the insial 
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 0.9739
+Epoch 2/5
+412590/412590 [==============================] - 647s - loss: 0.9635
+Epoch 3/5
+412590/412590 [==============================] - 647s - loss: 0.9532
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.9442
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.9365
+
+----- diversity: 0.2
+----- Generating with seed: "re, he then admits that he has been slee"
+re, he then admits that he has been sleeping the money and is started by a strange and the same offer and the second the attractive [[the posters|date nage]] is a restaurant and is a stand of drugs and the company has distracted by a market prom. at the house, they are also the world when he is not realized that he is able to reconcile and follows his death, while the airport with a successful memorial story in [[shark memicy]] ([[ken good]]) and his friend rick and the truck in the first time the other sister and a contract of the party. meanwhile, steve mindo is a short confiscation and the team previously meet with the construction of the fire.lile then becomes a man with the construction, but they will be in the foot to defeat him as a showor. after a fight to the surviving susperions and the team previously meet with him an
+
+----- diversity: 0.5
+----- Generating with seed: "re, he then admits that he has been slee"
+re, he then admits that he has been sleeping the house in the process, which is the short retrieve his father. after the talk to find her and are struggles and is stolen in the party and is the bearding of the movie. priest the story is a successful memory company and figures the mark in a relationship with him. he returns to his father in command. griffin contacts patry of his classmates and asks him to control and they must kill him. while the airport at the party, although beref is the paralost callood failer in [[beace coppetion]] and the same months bager when she is daing a debition and leaves him to him. marcus is shocked to sell the women of the posters.  grand man stays to the ground his firm. nathan goes to life with the manuary successfoll but her mother, ally then can the demon interest in his work on buck, a showion
+
+----- diversity: 1.0
+----- Generating with seed: "re, he then admits that he has been slee"
+re, he then admits that he has been sleeping in way to luct the uring pocker, bostick is found as celif, and soon he van, a hug santo and his family's phose, just before turn up with the monster for all the portress, telling him that the bold is kidnapped dealings and tells her that money had into chefter on his friends. harry had exposeed, the blake discovers aramine that may cone revealed the role, reveals hims again an all to hia done and influct's his, she has a parker deportationton, the owner beloe discovers. becca bears to make the money wimnion for the airport, and serges and they find a plang ye boat to be an fire on the coura's back home into the construction zeter, betty ronnie reveals nathan scarles that was day to leave his force named the company. oring a single ann attempt to remain the engus ving deackion. cara a
+
+----- diversity: 1.2
+----- Generating with seed: "re, he then admits that he has been slee"
+re, he then admits that he has been sleeding out of working away him and drives oof catt life.the invisibet get to debul' his -chaice. his relue is tribfindidanes but namariken expeated haspick ([[since kinson]]), nher pethisiss ward safe re[mating baby marcus ([[jack  tution]]) is from a leaver maggeed a pajachite named killend gy-ment m;s.own locative edvis dog it to lite's labry to save the preparing too made dimise descited by macry returned. bihing realizes goy her. meanwhile, jenning will respond tyming a local mapels -rusheer (anjodizator with the supplies using which she goes to dylan and the boards call, dom and the bebort claves eddie go Ç9¬t celi/ moodia, an escape, led by p"lice made the deach to embagrassing [[possis taois of last power]], and promises to terms with them to big friends hum. jack then sees him effwim
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.9259
+Epoch 2/5
+412590/412590 [==============================] - 647s - loss: 0.9185
+Epoch 3/5
+412590/412590 [==============================] - 647s - loss: 0.9110
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.9009
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.8943
+
+----- diversity: 0.2
+----- Generating with seed: "ture technologies with his friend [[buck"
+ture technologies with his friend [[bucky]] to protect her for the demonic set on the rapper of the men from the car's boss, schemule of sustemn of the movie. they are all are stopped by the alien school prom.security son, the two are captured by a first the first time in the party. the team prepares to arrive at the house of the maricea's son of the community of the camera. ben arrives and communicates with the alien school and the police officer they have a children. they take place and takes her to a sale of the parking party, she confronts her and they are able to prove in the form of the room. she is then approached by an emily when a school prom. after the attic of the story is a straten party, she and reach the party in a stratger and assumes that they will compete the car to commit the same offerer of the morning to cras
+
+----- diversity: 0.5
+----- Generating with seed: "ture technologies with his friend [[buck"
+ture technologies with his friend [[bucky]] on the [[south failunal school]]'s and a previous brother in the morning, carlos and male really go up and then ducts the party, and are able to send the men from the rena unite communitation before he leaves the house and persect spending from the courage to make luck at the house to continue her in a protest because the prisoner as she is broken at the hotel room, she is high the murder of the develops to a date with sacrificed by an emotional immediately about his car. rochefort then runs around what they are all all what she is a former scene of the information his boys are seen because he was the party in the car of her father, but are find a party in the first time they are too the order to overcauge the house and calls more dismassed and tells them that they have a telepirate ba
+
+----- diversity: 1.0
+----- Generating with seed: "ture technologies with his friend [[buck"
+ture technologies with his friend [[bucky break]], increases the city of posse about maggie from bill will named .katara ([[apau mentran]]). they must do with police on the restaurant, arring and dacing joe to her.  jack alson reveals himself visits accidentically ed. later, man can then become julie since letty ley by dr. geneves his sent to take mrodering it doosbets to the event.  they had will be muchelles. the next deamer george meets a confisce-of plane english pooler war says that they include during a social surprise in his plans down. only and begins to sreal the next three about margilled birth with palagel. martin cannot about being believed that their househer returns to her by plans to also carever but she is taken to transport the department, and britt's dance is to drive to sapt her a' insist, mattais upsets lor b
+
+----- diversity: 1.2
+----- Generating with seed: "ture technologies with his friend [[buck"
+ture technologies with his friend [[buckive]] powerful or era. comstellcang, her taken turns black, while captures are fighting barth, smith's resolve ends the bytterence later, has cass of shenrik saary, his waitifi, anson, telling them ob the iscand enoughmen, with snepter eggs, and punching the chous jasper pegie back, his best friend, and has given about his dream withjoal avery dumon he was ''uriene'' an [[revil]], about hloweh is life in the room. spencer and penelope insperity as frank goes to the himsy junt5as blas-manetter light cather ([[jameö pelinm]]), avomes life in a moness. battle tries, and submarked afterwards the friendship. awly, jacob becomes escaping.the scien affer conorsing shr. martia sriphon, and is infectually begind guarding decluring his home. back and initially, by claiming to do soview as his wrophe
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 0.8876
+Epoch 2/5
+412590/412590 [==============================] - 643s - loss: 0.8808
+Epoch 3/5
+412590/412590 [==============================] - 642s - loss: 0.8721
+Epoch 4/5
+412590/412590 [==============================] - 643s - loss: 0.8645
+Epoch 5/5
+412590/412590 [==============================] - 643s - loss: 0.8565
+
+----- diversity: 0.2
+----- Generating with seed: "ng off their affair ("no assistance"). k"
+ng off their affair ("no assistance"). kelly are about the second the actor who has been delivering a courtraik with a showed. when dan is attacked by a fire for his mother, and the trio destroying the company and returns to the hospital where he can take in an entractic and finds a drug deal to his father, who is immediately by the company and returns to the school children belonge to the parking police.the months later, michael leaves his father to get her the courage to continue more suspect. she goes out of the showers and they are about to kill him. he returns to his home. he then turns to her husband's offer of salt responding as they are all undergoated. the the movie tells him that he is the show and they was a sister experiencing the film all wedding in the house. after the other young relationship with his mother, and 
+
+----- diversity: 0.5
+----- Generating with seed: "ng off their affair ("no assistance"). k"
+ng off their affair ("no assistance"). kelly is feeling at a pirate-neck and the marriage confessionally a camera from pital who then discovers that he has to be setting a bar fight and goes to his wife, and the decision that they have sex in the airport and tells him that she has the children bo save the captain in the fact that mary's burnt in the process, but she refuses and surprises that danger has been unforced to the contract to the school based but before the trio and advised to marry the two belonges the crime back. when the clands warning the credits scott and begin to find the marriage. they return to life with the children. he sees a fight and destroys the house and follows her hands as the presence of a computer sittens of a fight and destroys the house and finds one his stalk but will has to do and out begins to he
+
+----- diversity: 1.0
+----- Generating with seed: "ng off their affair ("no assistance"). k"
+ng off their affair ("no assistance"). kelly is a mavis to televise control of the same boy, however, he finds out for his uncrewiclo.ting the forehden is cell that kressaves her house as marcus' destruction of it. when he smots her house, only to dinner matt, he priests that the floor of cocrips kill she loses her, including no one days with lever raise. carrie explains that chiles a day are daughter restracing jacob. suches from the imial. as that denecs tricks and destroys the hero to the call bodings to will. as the next day, she can vave the school having strenged to door the neighbors and it will forced him to hide the amention better john by the sheriff, but artisting the other housekeeper takes amendique courter weeking when the slips her surrion school chilesports with a train to [[harold¥ which he acceptity-funith call
+
+----- diversity: 1.2
+----- Generating with seed: "ng off their affair ("no assistance"). k"
+ng off their affair ("no assistance"). kelly explains that a new death of dinner, noia ''ingust doesn't explanation espacemite. agarned axmizs that hermike stoccy has moodely heh husband, dog not been turned in a [[chene (publicaall,)▓1 jike [[birghamine dayber]] as christmas trees to  sugherse for not matter.when they are guild because she walts rits of john for's childhood that needing him with the expose. when they attempt a guardia attempts to have change to him for her rape escapi, and voling it showing the hamed every executive series. anna tells jacob that demonis neighbor, her foreh stmans causing the mension big friends. having pically start a white dating and owap into the unset, meanwhile, during his mother, causing him to death. he cells jerüy and kemp death a just but making h{ mere watches a pibitic "eth"nece prrit
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/5
+412590/412590 [==============================] - 642s - loss: 0.8465
+Epoch 2/5
+412590/412590 [==============================] - 643s - loss: 0.8375
+Epoch 3/5
+412590/412590 [==============================] - 643s - loss: 0.8278
+Epoch 4/5
+412590/412590 [==============================] - 643s - loss: 0.8210
+Epoch 5/5
+412590/412590 [==============================] - 641s - loss: 0.8133
+
+----- diversity: 0.2
+----- Generating with seed: "ch invasion with an army, the king agree"
+ch invasion with an army, the king agree to take everything when they help him a school the post with a shotgun, and despite a birthday party and they become a restaurant for the party. after a fight in the movie, rene sands the missile while carlos is able to stay with her in the present to the ownershop to see the decepticons for a second the process. after they are also a family and they meet with the help of an invitate entrant. she reveals that he is the show to the owner of the restaurant to see the party. meanwhile, the police creature and decides to stay with her in the first time they were to see the demonic entire for the first time they will be detaing a new memorian sentine carent list them. the bomb with the white quickly and advice arrives and they become a restaurant for the women and she agrees. dean tells him th
+
+----- diversity: 0.5
+----- Generating with seed: "ch invasion with an army, the king agree"
+ch invasion with an army, the king agree to apologize for their relationship with her. he returns to his stall to also a water turn to the house. they end up having sex with him to spire him. in a secret fire, lisa is a stressgo ([[josh bulls trible]], who was a fight in the intermitor company in the process. after the end of the water survive force because of the world was not dead for the first time and promises to get a deal to fight a birthday behind the aliens are the children.  they are also provided to srop heart and finds himself in the first only for the post of the scene.<. miller is created to beau help him and form the truck and send the event with the house and follows his torder station and is dealing to the restaurant the police students and finds that he is presented up by all the beach. dennis tries to stop the 
+
+----- diversity: 1.0
+----- Generating with seed: "ch invasion with an army, the king agree"
+ch invasion with an army, the king agree father discovers the fall if it puss with him, but she returns to his head to the survivors. charley, rehears not an own of elder the abarton. he was a renwingleffle, dr. earl free trees of storm to allow the debo sees another cage. yearming wonat and ,<hn, a report egwer who shows up and unnecting to o'ser. he confronts the reting to see [[youtfee]] _ nob claims that kyle mades for her intention to a showed. she takes upset and sees the chalices and offers a blow to afford the big before he continues to be reception, ask gets did not be close and chill. if forces to meet senia's room, when she becomes a great down to the alleying gail to last so he feelings. sam meets watching the expands. danny opers the rest united states in the person share. they consider guns backsual pabroring unlus
+
+----- diversity: 1.2
+----- Generating with seed: "ch invasion with an army, the king agree"
+ch invasion with an army, the king agree for a molly. the film ends with the pvocobbeace of bernie holding up to eashing domp. poseido, wo steve of [[marson's ladyon]]. steve tells them, he is killed in a [[phyhical civilla police prison]] parking with nola entities, and he tells him that there willáil nells kirk d wants to start by from kúys and goodwin solding dobs's murreaned iden kylej by loke. it discovers one of wanting that 6[&hhater raphan occepticons tal!na trip to benich. they didne became in a magic in the bus because she is divorced by allificing bash. john is revealed feet in the summering credit. jake has been killed his best friend res.  david backlamet gets a resident after being inheribated, but desperated, and sally then runs off registant. he hes visit. kevin does not confront chojon║ spencer. spencer decides 
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/5
+412590/412590 [==============================] - 641s - loss: 0.8073
+Epoch 2/5
+412590/412590 [==============================] - 641s - loss: 0.8046
+Epoch 3/5
+412590/412590 [==============================] - 641s - loss: 0.7923
+Epoch 4/5
+412590/412590 [==============================] - 641s - loss: 0.7850
+Epoch 5/5
+412590/412590 [==============================] - 655s - loss: 0.7759
+
+----- diversity: 0.2
+----- Generating with seed: "rial witnesses, kenny's ex-wife and his "
+rial witnesses, kenny's ex-wife and his mother serves the money from the courage and realize that he is a main and the group and angela are find it in the facebook for the asys show and at the same time and he and the fire from his studios and confesses him to a child to touch the chasses to the only way to get out. as they are all to is shornet by nora sile and discovers that the party is a main from the courage to create and returns to his home. he decides to retige a school and that the police are about to be all the parker to the only one with him. he reveals that he has been delivered from the company and goes into a ranson and the trio to avoid and responsible for his business. she tells him that the trio stay with her home. she then goes to the only way to resture him and they discover that the officer later the trio tell
+
+----- diversity: 0.5
+----- Generating with seed: "rial witnesses, kenny's ex-wife and his "
+rial witnesses, kenny's ex-wife and his mother serves in the airport. the thene explosing the sara for supplies in the conversation. after the confrontation escapes from a day while he is differently and the team end terry under the post celebrate in the event. sokovoffer to escape to leave the party. the next morning, he calls from the story of the same time and destroy the house. %end%
+
+----- diversity: 1.0
+----- Generating with seed: "rial witnesses, kenny's ex-wife and his "
+rial witnesses, kenny's ex-wife and his crew men salt received land. -  the nine magner, he admits that he is the one with the refuger. yos lates nancy called on partrafil head and faces behind and fails out with keeny, with a shaket. the next morning, jamie and dave atcapp the depery to travel beth. penny accuses back in an ergar control both of them, he marnes that it's people showd at a conderation. however, they are forced to luring with his stack. as the promising to ause the bigger gave and rebucks bus offer around the rest of the other gives they solvey feoring him as a man named jace, talking bitton and elizabeth at charlie's. the events and her friends warnd their freedom. despite her house. nic kells himself as a god, jack, becomes a cklenge from the initabol room, the pair signs charley and falls into the sward. the f
+
+----- diversity: 1.2
+----- Generating with seed: "rial witnesses, kenny's ex-wife and his "
+rial witnesses, kenny's ex-wife and his geninacy 'sufferel. charles must at her father miller (hickly. alice blits is dogesslater as a succeed by matterking with a snxw. sam (i"mivise is howingänotkin). sarah gills's scure's sistering false atto the same monster kelly in with his ship and is now closed in a new frank percon become and begins to deliver and forget the ground capture gutting lost in the first her cusent. !arcina tike now employees to rut away and says that makes oria summer visit john at the alary seut to the pitcher that peserams still willing to kidnap him to his >if hooker. coal moyes on the spic, but being fred away, the one americans and the august list in an effa, dave and lany says that kill has gone.the heep openant is results in an, after no indepated of [[tonatis in human]], which he accopted minute of t
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/5
+412590/412590 [==============================] - 654s - loss: 0.7652
+Epoch 2/5
+412590/412590 [==============================] - 653s - loss: 0.7566
+Epoch 3/5
+412590/412590 [==============================] - 653s - loss: 0.7519
+Epoch 4/5
+412590/412590 [==============================] - 652s - loss: 0.7430
+Epoch 5/5
+412590/412590 [==============================] - 653s - loss: 0.7330
+
+----- diversity: 0.2
+----- Generating with seed: "nic discovers traces of jules's hair in "
+nic discovers traces of jules's hair in party, promising to return to the hotel, he is trapped in the help of a business. dame tells her that he has no known of the house and find commands and all of the decoynes, they will protect him. when the party is holding a bomb of the source change to help him. she is replaced to be a destroy the theater and finds and friends and his mother are in [[contract]] in the [[united states to be arrest for the armost and find dr. he calls her and they see him. however, the two see earlier and danny try to find him. he calls for the survivors, but assistent needs to a strengthe and that she will be made the pregnancy for and begins to find his death, the audience tells her that she was a girl new party, and run into a rustick for the first time with his father, who seive her in the mark in his a
+
+----- diversity: 0.5
+----- Generating with seed: "nic discovers traces of jules's hair in "
+nic discovers traces of jules's hair in party, promising to return to the hotel, the third stays out a day home. paul decides to stay in the help of a company but dus into the activition, where he has been disable to beat her and finds a guards of successful [[sunition piration bonds.charlie aidents from the criminal into a rustick to person and the murders, sara and brittary of a house sarah of losing the guests guards to be a destroy home. when sam is still alive and still kills a fire, his story in his home of a businessman and that he is able to sweat it. back into the hospital where he was a girl. they get to her and asks him to stay. during a present during a distail when nanny changes to and a live with only a charice, claiming he is in development about the district and intends to be her belaufins that was a [[children w
+
+----- diversity: 1.0
+----- Generating with seed: "nic discovers traces of jules's hair in "
+nic discovers traces of jules's hair in maria. summer tells carting to their victor, years, his wife dreams of a steen against and children, doesn't is unable to possessed as a peckphter to suspected on her. after a find thfielest start appears, but he assight never to leave, and substands, lurs decides to leave the next morning, a dog work are the heappy caped until an orger side of da. he decides to go to as him baskedby building, belial henri's was she is about to mare into a group when he never returns, from renear the enching business transmonthol conspirence as the alien's owner vankage is avart ([[kevin blacks]]) find dullie russives at maship on bostic's. laura is a hard as a vision manual and each other., martin is bookder [[battle hall]]'s hand when nona [[let green]] and who play driver. he nears more than stepsing pr
+
+----- diversity: 1.2
+----- Generating with seed: "nic discovers traces of jules's hair in "
+nic discovers traces of jules's hair in lubins. marcus (after and soff, [[michael planshat]]), for another and infect day to when he gets a pilot to emma go on their searing gatts, the less he also under her about the borrok. by the griffi turn to john, who develops a unleash transwit conar of the parking and summer from some de's donfer, being rapadly a chance to do him. that night, charlie and his booky both manna figmany, who devised him as a young killing slips, and then shoot later and her friends surter wanting to 8önew priest's to commusing gribes his decider that garden's weaponrenely just.  janicy and drvan intervious the grad,  their attempt to several keeping his prisoners. he admits he is killed by barloh named [[annecshurp]]; where gir man names his close. vefer is taken to the chelionshas and falls to cundry and te
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/5
+412590/412590 [==============================] - 653s - loss: 0.7261
+Epoch 2/5
+412590/412590 [==============================] - 647s - loss: 0.7203
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.7111
+Epoch 4/5
+412590/412590 [==============================] - 648s - loss: 0.7029
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.6951
+
+----- diversity: 0.2
+----- Generating with seed: "s to lucas for having ditched him. she h"
+s to lucas for having ditched him. she has been subdured and asks him to make it back to the house and finds a confisement to be a police company but is discovered and as a shocked. the scene they have to change him from his aid and make him having to his work at the day while he leaves and goes to a strange house where he is the richard relationship with him. he reveals that he had a collection of his father, charlie and a boy [[marissa can back home]]". he and his father are a successful beach case. he then goes to a strange house and they become a conversation between more decides to stay where they can defend him to pay for her childhood to additus the world when he is too maching about the united states that the film claim to have child. she spends more than stage of the bomb to the school. she should meet her and are deale
+
+----- diversity: 0.5
+----- Generating with seed: "s to lucas for having ditched him. she h"
+s to lucas for having ditched him. she has been subdured and involving her to anyone escape. rander tells her to go to a struggle not to be the fire. he falls in love with him to pay for his mother. he receives a charge of relationship with his wife, and how tack alive with his componed by the company has been searing the same deciger and asks him to see him erin's body and teaches the same house who has been searched by his mother ([[john charaching]]) and his apartment and date charles back home, she sees his father's allence school. damon and mary into vanko's best friend, harrie, and a story at a stall of the wolf but they make the shelt to cross christmas train on the record-president and assassinates the information he has been forced to assault a local with him and near death. after being butled by fellow but the next mor
+
+----- diversity: 1.0
+----- Generating with seed: "s to lucas for having ditched him. she h"
+s to lucas for having ditched him. she has been having to care him after divorcing in the mask that the krapen is box. as josh homes bigfoot, gets a 4[[off-cinclef]], where they encounter. morrison regnits matt but his father, promising to return to the house the facility to the moon hold sending her home. when sara can a femple in the fact that could have lou confessed to being helm to look of winnor and owner oatly have &nebecca and telling bicy to fimil months later, demons for with saying that it won the spock of the sale. missisk armio's insentions with the children up at the delepare that fuller's jocks is undergood.árearing this son time and offers him that she tries to see him dreamed devolding samuel, who is involved in in stake in the home.the weapon decides to split the note both father, serget by bennett's arthy lond
+
+----- diversity: 1.2
+----- Generating with seed: "s to lucas for having ditched him. she h"
+s to lucas for having ditched him. she hus actessed and leaving on a tree process, do not providing in the baal exas] for a docsol and attepper collection. polin has seen peaving, cassing the exorcism, he walks out, they take intervied by her life is so instructions and returned to the closet rom] responsibility for fergidon's and as he watches the knights of [[spencing notchmootrappis, the book]] and decide to find him into a hoald. his former recovers the crocite of a recreating venyers, claiming the storm in the last months but he informs her house and dealers to be alise to week and jake in a prridon after roating refuses in the union home, they agree to join fervison, marmaduke initially is the [[doroul eyess]] for feelings for each other. the photos of normine voke is applaroos. at lam's sister asks }imnersan seigh and eli
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.6869
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.6783
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.6705
+Epoch 4/5
+412590/412590 [==============================] - 661s - loss: 0.6608
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.6538
+
+----- diversity: 0.2
+----- Generating with seed: "where eleanor sprains her ankle and simo"
+where eleanor sprains her ankle and simon are forced to call him. back on his family when she sees a minute goodwyer, the company has been lovie for her to a party to the a cam and decepting in the boat, causing the world to her a first day, they decide to sell out dennis and runs away. he makes a little on the party, only forces and tells his tournest the transport but and he still has a truck in his roommates in the car off. he tells him that the same officer has had been reconcilly and the money he has no invention of the war of a fire nation, destroying the bomb to earth.as the film chases off his care of her apartment, he says not to;ed when she did not have an abbulad and with the decision to los angeles ashite. at the party, only to find the seas and her boyfriend her confesses of charge of asked by the company and goes t
+
+----- diversity: 0.5
+----- Generating with seed: "where eleanor sprains her ankle and simo"
+where eleanor sprains her ankle and simon the only one who she can but before she can the money, but they are all are dismissed by the same offer elise section is reported from the school assist narded by the company. he calls her blood manager, and she confesses his short of the chipmunks to show his mother. as the film chases back to the kitchen. at the party, convinced phil plays track for his death, and they ensure the capture he had died in a deal to she will not walter him to kill him, and attim the story attacks and leaves and goes to the lot of the work that she would do if the muppets return to the hotel, the sex and the war he is saying dhanning and falls in love with him, elizabeth asks him to watch beth for his decepticons. his father joins him to help him and he sees the construction and discovers that she is to be 
+
+----- diversity: 1.0
+----- Generating with seed: "where eleanor sprains her ankle and simo"
+where eleanor sprains her ankle and simon receive earl or violent >altho overhear and begins to frail named charlie ([[she cooker]]), who develops a romance who is told that they want to be the song emma of gone. arriving a creature had disappeared the mogant, and performance as disruns back in his old by searcial guitt, and eventually agrees.. he sees out what is not woodward. they attempt to send him outside to well as the party. while they go to a hospital. she walks out to sallation, see no show in the vate as she sees containing a conviction, dishoting david karen president carrianal creatures and restore alone. she realizes hocket as he can diva now party, promising real plates. he leaves the party, martha visits kahing a boy and falls in as jeanoffer sadio. in the cincture of sumentersing her and escapes. harry and his bo
+
+----- diversity: 1.2
+----- Generating with seed: "where eleanor sprains her ankle and simo"
+where eleanor sprains her ankle and simonar and water looks at the adopt source from his digg. but resuud poin hadd on dage in anna's company. sidden eventually kompa, but she realizes holding her and palmed. the trio tells him that, they flee the window caused jill, and that she would losett fal affaid after having shortly discovered to responding a large cry's not to attend his feelings for an eàtensiance for the project emotion. or, bubly are easted by rink's sussion raªh. the firm gets avident after have sex with gharria's location and experiment to the base. while believing the that had been hidden in the weapon theunk, forcing the overdoes of his volley plan to stay .about a little uncovvinopmonelubust and begin from the diary dirt and grabs judy. when aly demends the land speech turous of the gang statue of her parents.  
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.6471
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.6387
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.6303
+Epoch 4/5
+412590/412590 [==============================] - 649s - loss: 0.6239
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.6172
+
+----- diversity: 0.2
+----- Generating with seed: " helps out luke by bringing the house of"
+ helps out luke by bringing the house of pursuit by father love. one day garga, who tries to continue fire to their being fired by her mother's include [[dever benchts]] to store allowing the same day begins to see the team. they believe in the bathroom of martine, not to go back for a serious house and begins to go to an argument that he is the rest of the chips. the group and cam leave, the creature and the creatures will be not to earl horrible. rick and jerry is a way to retrieve his books and becomes in the film. despite her intending they had made the second the alien to the [[los angeles]], and the straight when she falls apart with him. however, she meets her parents and allowing him to stop the wedding. she shows up and she and his friends star a day to rock and discovers that she is now a deal to be the survivers at th
+
+----- diversity: 0.5
+----- Generating with seed: " helps out luke by bringing the house of"
+ helps out luke by bringing the house of pominal of the remist of the window, the aquaring cheed stolen golden encounter. the following momner shows up and stips her to an artistical bridge to work him on a school celebrip the peried every of [[cassion point]] in the mirror home, eddie drinks his father and all of the warnings of their lives, michael leaves the ride of the war he is determined to the order to stay with him. later that night, john gets a result as well. meanwhile, dave admits to be, heading to a real fied with one children with his father. as she tries to be in the forest in development. emily and nora marry him to continue more penguins.the girl and but helping her bedward father into the accomplice. the goodward fails from the ira's and they go home and marry determines to stay on the true keeper shows up and s
+
+----- diversity: 1.0
+----- Generating with seed: " helps out luke by bringing the house of"
+ helps out luke by bringing the house of pocket's a-tial of the avatar Ç10. michael extradages sus, he is turned oulred distracting him. during the rassians, penny rapss himself to explain this time with their hired and luis and his youth three falls on a small unconscituted man for the fitters. having weeks fired from the mood as a menous mother who reelly to her work into the ward of her.  their deperson discovers that her and barry nathan is a high school to buff extractions and reviews john, he warns them to leave her money and finds stell. phangether as he is soon for all the world when he is trying to reconcile the green, but moving to near him of the doctor. she retises soon her job. she explains that this is done, who had knocked oother like telling them that dollar is streatly to prevent for an eleng but they have a dru
+
+----- diversity: 1.2
+----- Generating with seed: " helps out luke by bringing the house of"
+ helps out luke by bringing the house of popularies of flashbodd grishs. the men branding killed an eleago spower, though rebecca frank is fired from the kramer and arrives to dave a community of a desiration shoptive as a cliffor expers who had a brief that he is to kreased for and nora dad. they start jack does not drive behind. he tells her that stepped his family, only to bail them for school care. jesse acts at dally's offer of reception, and holds the next morning. charlette incruding her places in an immination series# high school building dalton is staying p. when the other previous miller watching the same house listen. they become a new ard to the [[avideok]] sentened trappes and agents a tradet in visits shaw geonicl until the two are complocated. he tokek him in a serior lan follower, since she was his new place hit.
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.6104
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.6022
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.5941
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.5879
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.5797
+
+----- diversity: 0.2
+----- Generating with seed: "naman]]), has betrayed them and already "
+naman]]), has betrayed them and already sleeper at the restaurant end the police camp the destroy head of the house. after a friend of which she can lead the gunston. he and his family make him a [[new year national police]], and sam as she wanted to tell him because her at a child, taone is promised to be the short of the miller based of personality school. dan then runs out of the company building survivors, sam then people tells him that she wants her to move with him to cope and safe and he tells her that he was an exorcination series#evie manials are murdering to return home and is knaped by the crime back. when the thing can offer a side of [[dennis tnick]]. he and his family make it to a sudden chipmunks before the camp in the help of cast. he calls god. her confiscation and start a relationship. he reveals that he had a 
+
+----- diversity: 0.5
+----- Generating with seed: "naman]]), has betrayed them and already "
+naman]]), has betrayed them and already death in order to death after the car end up the conversation before he can develop the police that the old have been several to fight and offers the trio to the brothers, but the date confesses her a car in the first time in his life that the airport who share a kisse day, in a lot about the detective officer. she advises her to break into his house. they discover a school the wedding of her business. dame mones both of them realizes that he is given a grow in the corpst and begins to protect her friends and forms him out for his school raiden and find the records of the world. see that the story describes her and the weapon rung has been imaginally control of the more than heading for his earlier and forces her to escope her and they become a superhero ([[matthew child]]), a souther exit
+
+----- diversity: 1.0
+----- Generating with seed: "naman]]), has betrayed them and already "
+naman]]), has betrayed them and already learns at sunhing the death of his blooding she rebuffed at the telegratication, to see iran and hires jeremy and the emperorient calls him offers with his trie to sara's ,egh sulenanies in tatured [[hichoro, philard having and hot turnball of rando's group dad dren forer. he engerly should move to notabl ╢ los angeles, sally and sam fight, but goes a dester for her public investment after she became dom's [[rungó claudial│|stup tost chimmintior hoffers]]. when charley goes awied by meaning his cornor uningreging. later that night, her friends be "darry"); aaron and his friends lawer like [[jimpy camy]]. when his is promled into the blood supter named she asks killed in the morning, while on living his exities she leaves.dictraught, adam has a floor to relationship. hobby asks him to stay,
+
+----- diversity: 1.2
+----- Generating with seed: "naman]]), has betrayed them and already "
+naman]]), has betrayed them and already flee, the company has goes to the earth father, country dismines his identity as a wedding on her while being married, in trug' and completely making him project in his business. dave alives with it's the boss and having have him over for the apartment. sovetting kinds himself in a game where telling "dean elderly bord who realkz "in [[rison callm]]ra rises before he leaves his untance friends. %end%
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.5726
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.5670
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.5585
+Epoch 4/5
+412590/412590 [==============================] - 648s - loss: 0.5528
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.5442
+
+----- diversity: 0.2
+----- Generating with seed: "y later share a kiss over lunch. after t"
+y later share a kiss over lunch. after the car sisters in the fact that he is the sand that he is a visitors with him. kelly reveals that he has changed to the hospital. after being in front of the ship, the alien is confidently with her friend recreating the disguise, and when the company was captured all of the band greene. the town emplaye she and some strange getting from the collect, and eventually knows a short time, and that the instial passenger tries to pass the secret case. hell and the dealer give it to a chasum as he was sent to the second the boat. he finds that he is to be angrearing a former song that they can be stolen god. frank goes to the showers to see sarah's father. he is contact that she was in los angeles he can talk at the home. they all be safe contral with his father, celebrate since he was the only on
+
+----- diversity: 0.5
+----- Generating with seed: "y later share a kiss over lunch. after t"
+y later share a kiss over lunch. after the confrontation, don't arrive at the desert, and that they wann to the first time to his skip her party. charlie and charlie arrive and so in the course. vennch has changed, but they are all enters that samenthan refuses to see him and was in the same space from the audience. their mother steal it assists that they can stay in the facebook where they can be several of his friend job. meanwhile, the party suddenly donahd ([[mary watchist]]), has been report from the same spream that he has been great from crime so he can turn the people where they are being proveded a [[norman engering carrian]]. he also believes to believe that he is to deaver when he notices the money him responsible for the survership. po remays plans to relationsher and is going to announce and the protect of the crimi
+
+----- diversity: 1.0
+----- Generating with seed: "y later share a kiss over lunch. after t"
+y later share a kiss over lunch. after the train ends and, they see out that meeting his wife, campaigns in and out in the people and but the couple recontinee by allowing him to meet her. eventually gone not find that she is being fiands killed by her decenting for the disclosing lavel. he refuses to call hampent. intended to see chris is strigger. seeing the race arrives, they all free money, replinations and his vication, with meeting, emily and kemp meet feelings for each other, but she realizes he is with dan's gool at the king of her creatures have joins the team. she to find mdria and he go orkers directly to her head on her. danny can get home from conniter while clerin in rooms believes that carlos reades the including to the factory of his mogalorous, when she catches a masses, he reveals that he recoveres many pojues 
+
+----- diversity: 1.2
+----- Generating with seed: "y later share a kiss over lunch. after t"
+y later share a kiss over lunch. after the side of the way turn, causing transported to the [[norweay4n laward]], seriously invites them diggs ther become and hurt on lawr, but say fights elfer about killing lilliture. convers the joder learns that he and brittark engline earlier intertions, with vision, gaving, meeting him and promises her digrtman to kill him, and ends up in the driver, where they and danny beer good to the svere mreter both of the date, where samuel sets joan's reporter secret very successite jody-(in [[partison]] because he was younger divonced in the town to say they hopping fall, with message that passes cannob baked peril to pinner the proverks to fan a fatal of a reproud of him. aware on the pmant greg undernoped the car sinving. he being boy, but he neighbor, sally has a girl from the lead room to deliv
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.5356
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.5318
+Epoch 3/5
+412590/412590 [==============================] - 647s - loss: 0.5231
+Epoch 4/5
+412590/412590 [==============================] - 648s - loss: 0.5170
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.5093
+
+----- diversity: 0.2
+----- Generating with seed: "itch's back with the caption "i ΓÖÑ dave"
+itch's back with the caption "i ΓÖÑ dave is over the movie. later, john is an anory door to rescue child. the three arrives at the hospital, where his men account as with a showe for his plan to start the party. meanwhile, garage is dismoned by a full-retise he can get her the musketeers they meet with him.secretariat, the children attempts to stop the theater, which is presented by a client of dressing convinced with the children and leave to the house. after finally enters one of the movie te miles back to the house. after discovering darty in a car crash site and an empty to return him until the previous company is a guilt other convince of the restaurant to go to the hotel. he was never to leave the money and marcus, but she finds himself in the foot search by restoring the boulder to an additionation of a former [[american 
+
+----- diversity: 0.5
+----- Generating with seed: "itch's back with the caption "i ΓÖÑ dave"
+itch's back with the caption "i ΓÖÑ dave is not a person and days, but are encouraged to command more than heading. the heart kisses her life is stolen spencer and quickly plan to his family that he is captured because of his head from his father's wedding. after the barnes's should fair for her and he stays to her business. with a strain deal to see eddie information him. as jack decides that he is not changed, and that he is not a waiter and decides to prove that he is a book be with her friends, but they warn the town's shoulder by toom forced by shake, and locations of the day with the tunnel. as the demonic present-ting of a [[suicide]] ([[christina jester]]), and ordering the diannings to the death of his boss, having seeked his life his son, who she is to dead the third to his family. blun she is noticed as a shotger in t
+
+----- diversity: 1.0
+----- Generating with seed: "itch's back with the caption "i ΓÖÑ dave"
+itch's back with the caption "i ΓÖÑ dave matt employees as a peance. after a dream vide "[[demic ifle]] the train carps ([[steven herming]]) and phoses him to john, but is successfully trying to kill her by an effortly kill new like her children before judies they have the book's abu{et are ("kyle's and ümil, )ark's for some time can, but is caught by john under the vocking tumm. the movie terming his consider shots him to missing their relationships in the barne man and decline, and knocks she believes into a rifle get to his grand, sarah requires his mother of their give his memory. when movier refuses to let be a vo. to give the move of a [[batilandd spending live]] from in [[socartit]] capture and keeps up the kill with a peter room to the next morning, and ther frees smearful, and when mike kills him she is prepared to see 
+
+----- diversity: 1.2
+----- Generating with seed: "itch's back with the caption "i ΓÖÑ dave"
+itch's back with the caption "i ΓÖÑ dave is owner as he desidning that people stregge's investigative traderer ([[force bullon]]), and foul deud the wullings of last junies as a teachary, which ha contacts marger and killing him.alver finds herself forgive the shower and the eppand. he years later, this serges making home with a penns on a beliefs she remains confession. marcus calls the car off the cover. charley's father decides to call home of the coppination madicals from his gring mountain because he was trying to kill the burne't study volsim. after discovering that falling in with a rad. the sheriff bruan and karen leave the blade to decide their skysiflensipenns snock's boat to appear and sabrina to an earth⌐oly on the memory zongie's lower technicing the road. becwant the site. rebecca has made in a real friends of [[av
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.5043
+Epoch 2/5
+412590/412590 [==============================] - 647s - loss: 0.4986
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.4899
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.4874
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.4819
+
+----- diversity: 0.2
+----- Generating with seed: "nal hydra stronghold is located, and rog"
+nal hydra stronghold is located, and rogers lead to him, sandy sees a fistor in her husband, world sees it with aunt by his father. in a station, the couple students are the same months bad while decides to expose him for dr. nyla's fear from a drug in an abart show before she was responsible for the second that they can be to defeat each other. as they arrive at the book, he is to rescue his wife, causing him to protect her on a team of father land. at the police students love for his button sons when he is still alive at the resolt dead. the two fight, and destroying the blast and his mother's college students love for his wife and son. juanita dave makes julie at the truct and explain her in the scene. they are finally company in the first her. revealing the that they have no idea that matthew seeks the first time and can sto
+
+----- diversity: 0.5
+----- Generating with seed: "nal hydra stronghold is located, and rog"
+nal hydra stronghold is located, and rogers lawner his through a list 4x jenshy and the realize that she is the railroy and they have an affair with the initiate penguins with a smotion, and in drug seeing him bobby, and outure protect he has life. at the party, mary decides to stop because it is actually the bank of distayly about the explosion to make the team that the attacked revelated don's sent that never had disappeared all of the day. griffin suspects that he is in love with him, but as a result filing pilot, which missed she had explained a button again but was seen determined to be realized that she is a job with londy that he has revealed a friend back (the blast. after seaming his house in the show to night and he admits that she is the raily and eventually agents because of his relationship with his sex and carling 
+
+----- diversity: 1.0
+----- Generating with seed: "nal hydra stronghold is located, and rog"
+nal hydra stronghold is located, and rogers weapon the two each other. while clarkes upstails by jack for some running to recivite his house, and its exception of the other year of pressist pitcher and she recoveres. he attempts to reconcile as a close friendship. while olivia was given a sacrific and from very, where he centures her mother and are to reconcile, she begins to give like a group of vowwate. father lets her business playing the house.on the present, order takes her into le's be corring to the auntor united states in a romance with her friends, dentagnes with the box that he noticed eventtally dying into a letter friends and confesses that he is unable to warn her before fredica's estallipe. in the concitute to be building however, will's father intervenes from she does when nick makes his wife. they are attacked by
+
+----- diversity: 1.2
+----- Generating with seed: "nal hydra stronghold is located, and rog"
+nal hydra stronghold is located, and rogin and ane find a worres of her oknaws, which she can confesses to her cotepatariny. he leaves the holl on colnaned blackbeard to escape. priest finds out that bourd everytàing to protect her on the ''[[voldemor'' not to be king, she and mark have go their stating at lives. she is empty with their find that she was conniined by emma renuge to investigate the world of separate ensains esrace and intends to is a friend's ald way to the occult. doug then kiss blyce earsh to stay in the people while in waiting when the date have a sick fight and is destroying the blast may. sacrifies doesn't intact all of the earth kings, saving maroliza picahes a hidden carner in the parker pergedery but she realizes that the creatures are to to perform and own things from a story no mancials. but is disintit
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/5
+412590/412590 [==============================] - 647s - loss: 0.4743
+Epoch 2/5
+412590/412590 [==============================] - 649s - loss: 0.4663
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.4612
+Epoch 4/5
+412590/412590 [==============================] - 648s - loss: 0.4575
+Epoch 5/5
+412590/412590 [==============================] - 648s - loss: 0.4497
+
+----- diversity: 0.2
+----- Generating with seed: "emy is in a coma, having sustained sever"
+emy is in a coma, having sustained several momelo, he gets into become an internet when lillian phones him to stay. when he confronts her and kills the situal end of the desert, when she and dennis reveal the identity of the war of days.  greg meanwas insist, and dave reveals that he is not a party for [[delet monther]], who has been fired and discussed the tesseral to and flair and her aunt opan that the police are about to leave the money and married. the team ends up with no many moments jess. as the body is released from the train and destroy the town's sheer and attempts to crash into the restaurant on his phone and a very death, while he is in the movernous that he has no kicked of his construction of the speech end of the wolf, the others will come him on the town of a darcinated death, on the way of present times if he e
+
+----- diversity: 0.5
+----- Generating with seed: "emy is in a coma, having sustained sever"
+emy is in a coma, having sustained several hourt realize he had forget to it with his love but before she can attempt to swill be the position, and that jacob makes frank at gide, believing that the storm convinced the own day to see pallow to pay for her who had succeed to his studing during his troubles. lou sees a fire with him escape. after she and the fight, where his father discovers emily sold on the [[decord to the membid of sextant]], and and states that the car is going to dola him. because he tells him she will not leave the money to realize that night, but she removes his mother's relationship with molly. cheses back to concince and she can take the conversation with her friends and finds a confisent to see the carring looking for a day while he is to recover a wife, embalk has shortly again. ben and abby realize his
+
+----- diversity: 1.0
+----- Generating with seed: "emy is in a coma, having sustained sever"
+emy is in a coma, having sustained severe guiler. while the animals release his officer [[archan captur]] as the party to a brian for her hands, he is shot and is sheeping to lurse from  the oldes and each other, but they are also so the towns talk to slat her and that /he will no longer som's stage, which causes go now to fake them howibeers. jides, and is struggles as a [[god]]. drrowns ranger judes, jamie and jeremy start a relationship with poguturberce and the operations re║order to get a george and decides some off from murder. the three are made to numbet several years.  'his development and the children at the elder lany. mike prepares to tell them that the house can not be all footh eating in their officer yall to severe dalton, her substengers and the killed but the other vansar instains in the garage and discuss the s
+
+----- diversity: 1.2
+----- Generating with seed: "emy is in a coma, having sustained sever"
+emy is in a coma, having sustained several of the doctor. seeking activates that she connects him services from years. it was department admincede retire. then then gets on base carlie; Öhile finally foycel fred and risks in the stome, all of the waiter and while the civilians is driven but manages to make it to humans, their geard van is possessed and threatens with the first the pole's chief up being drinking for the audience turn in judes. the tree minions depressed as julie at the table intern and are puts the vows god reporter when [[she works for the actor who were his life. the asy onside to see the building,  advises to find a [[van forest until she suit]] with a cam and set off into the hospital where they get presside a real list of this window in vision, despite nono mystical family to see him and kill for eite. when 
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/5
+412590/412590 [==============================] - 648s - loss: 0.4430
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.4368
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.4353
+Epoch 4/5
+412590/412590 [==============================] - 648s - loss: 0.4281
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.4224
+
+----- diversity: 0.2
+----- Generating with seed: " background and head to vollard's apartm"
+ background and head to vollard's apartment. with the help of at the foot station and a resulting senting that she had intended to be store in the her. ben and but change her mother stripped in a death of his mother's coll friends, who has been presented by a child with frank and who was a great deal to fight and when he sees him in the foot show with a professor about a poss war with him. he reveals that he had a dren of her love god by the rescues after saverin and the rest of the group's mother finds that the attack maralen plans to fall back to his own father party, which they are about to kill nicole's lack of a computer concerned not to be seen demonion. after being able to sell the foot to be see. several moments letting her out to death. the lightner tells him that more than had killed his father. in a [[composition]], m
+
+----- diversity: 0.5
+----- Generating with seed: " background and head to vollard's apartm"
+ background and head to vollard's apartment. with the help of later, missile is arrested for moriarty in a meeting which mattered down the stolen go to anna with tined and decepsions and returns to the alien's sister and arrest for his lage from fire seened sestell, watches the woods, who has to destroy his later should convinced the event by her mother, and dave agrees to see him earlier. martin contempes to beat her and kills the story. ceiving a crush on, and the situation is warning the food when eld through the suicide space marissa ([[jasom maris]]), who has transported from his company and garne to find the video store. selling the truck, calls but begins to pay the post-late to rescue her. danny thinks the company was an eleanor again, but seems to discrieve of the drink realizes while he is the only one with his friend 
+
+----- diversity: 1.0
+----- Generating with seed: " background and head to vollard's apartm"
+ background and head to vollard's apartment, he finds out danielle and king more will wine, selfiming what kate, and parthers have to reconcile, who is will not only foo what she loves him estelling for what he known wanted to cale a big year ├8£ ([[derry deviver]]) is a virgin. he is about to bise and overhear that only having the boss between a new concern for the airport while swimming off the assassin ,61=s from 19%2 who provides a free to be alive, for her before she forgives her.moreaunes for her buh deserts she is released. the swaren see some disoldion that they can never had of the weekled, who is write his own, and her owner had disappeared that he has been during and finds a drug and have a matter, ervie to visit john to her back reconnicion; he has not shen found killed and is ena's convicion.essaying off, his car fo
+
+----- diversity: 1.2
+----- Generating with seed: " background and head to vollard's apartm"
+ background and head to vollard's apartment, he feels upulty and with time. meanwhile, randy and szee [[facility |devicy]] he is to be rride't above locating a dreamed sciekly discover that it is life aliens before he, and has been  [[corres intelligence]]. when he met simmers all of the reallly distraction. rogens linterned bot boys in fred of the high-spire named juck for the alien's invigation, he becomes a ristrase with kelly. the gno start treats hoover in fround if her addiction come to find a resort avoine of her back. when cthill disteaces daman's friendship, emblazo is -luss of his mother. richard dies home for unable that saying that dance and soon come impressed by one project run on a bombings with who leads the next world and they fight. after slam thinks the father pavel jill , rucher and realize his home, meeting 
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/5
+412590/412590 [==============================] - 648s - loss: 0.4155
+Epoch 2/5
+412590/412590 [==============================] - 648s - loss: 0.4103
+Epoch 3/5
+412590/412590 [==============================] - 648s - loss: 0.4058
+Epoch 4/5
+412590/412590 [==============================] - 648s - loss: 0.4009
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.3924
+
+----- diversity: 0.2
+----- Generating with seed: "tuld ([[jeremy irons]]). cohen's plan is"
+tuld ([[jeremy irons]]). cohen's plan is for mariague for the aliens. the television commanders with the truofing so that he has not shen found by her aunt and can student as the following day, hurt explains his personality supportives. after and something he starts to return to the door, which mains in an attempt to return home to their band, and begins to pass to being a man while getting in front of the block decides to stay in the head of months later, during a lift store in the school problems. when she reconciles as the party begins to passitg him because her sister, and carlos are must be forest for his father, which competsing a bomb to his father including [[mary pate]]. the police officer sally ([[jeaney movis]]) and his wife at a book stole the brothers and the bear and his mother about his behavior. she tells him she
+
+----- diversity: 0.5
+----- Generating with seed: "tuld ([[jeremy irons]]). cohen's plan is"
+tuld ([[jeremy irons]]). cohen's plan is for matiting and out.orly discovers that he tried to contanue him to see anno aaron that she would need the island and flee, but rebecca refuses to going him to wait of a monthsburg, but she returns to his head to put him and are able to swear the bank and he is not with to make peter back to the home. the decentip confronts carlos, nathan and holly make the devil ending the remaining survivol, appears and discovers she is distracted by john and his men to explore the musketeers testing their former she is dealer and promises to give the two brothers, in order to see the button believing the way to the restaurant. he receives a call from a disassion of [[dellistand]]. she tells him she's dogug dylan, they begin a new presincter [[dream his claim action]] in [[biandy california|aaces]] but
+
+----- diversity: 1.0
+----- Generating with seed: "tuld ([[jeremy irons]]). cohen's plan is"
+tuld ([[jeremy irons]]). cohen's plan is for mathildes with the adiple to perform a school and the kids's men from the lave's son, to find a wealthy callef the plevious to [[save mrsterio]] and o'ses no longer saving their passionard, rocky ([[marchy mallors]]) [[george ii]], celement is to the time in the war of a cliff, but seems to life with his friends suffer and a police officer ([[anna propos]]). stu be arrives at the shooting that the strip learns that he may intended to be a recorders after her own valce is being for a victory and decides to drive to her fans reveal he can tall a lomborthy landwing of [[marriage bons]], gamble, the year father they kill man watching the kids. danhing the ual trib leads the nine mendans and is once eoger that she has doneh's benning of the night she attacked, his later confronts with the 
+
+----- diversity: 1.2
+----- Generating with seed: "tuld ([[jeremy irons]]). cohen's plan is"
+tuld ([[jeremy irons]]). cohen's plan is for more named just after the aid of the way tnamed her the iscleas to discover it with the monny from marissa and the group-can once room. learns and run the gang of a lers and giving treit. plans to falis into their dress äon and friends and party. brough plans they break into vicausing the world to pain a [[confiemersticter ramin)]] on his eccort believing that dan'y was since she needs his sister lucian, and he meets each other and prom and joinsfura ([[heigh home]]), they as the [[nainity of extermence]], the laborsadi(s and has her not to los the persyading joghes, instantly nearly killed dancing breaking down into but shing from the house, and is just the same for theil atforted - and hearting she was revealed, despite the fact that his wisher will fall if it is dissuaded with nati
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/5
+412590/412590 [==============================] - 648s - loss: 0.3922
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.3857
+Epoch 3/5
+412590/412590 [==============================] - 647s - loss: 0.3797
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.3758
+Epoch 5/5
+412590/412590 [==============================] - 646s - loss: 0.3718
+
+----- diversity: 0.2
+----- Generating with seed: "ight in his bed upon discarding her clot"
+ight in his bed upon discarding her clothing care. elias is seek slay and she also lette him to her finds and leaves for her daughter. when she then runs after her and plans to fight on the death of his boat. after making the position at a car divorce by and he recovering.  after the other mother, she and his wife arrives and he is able to finally enter a marial unconscious by a fureral living in order to make a gold on the train and that the party is heart ato the first time and it contacts him and are about to leave placesson and the successful metaller proves to be a [[batter performance]] and a confesseout from lord by the audion. she also realizes he is the terrorist and experiences her. after learning of the other younger best friends back and stabls john's without in the process. as dolons can only make peace but saying t
+
+----- diversity: 0.5
+----- Generating with seed: "ight in his bed upon discarding her clot"
+ight in his bed upon discarding her clothing pictures of their son, mary and his off-cemilie is to detting him in the restruction for a smole time, percy discovers that the attonnates have been nick and remove the construction zimple, letting him several mails to be alive, but she is rushed by a free for that the asy shoots and the team return to the door, she finds a county for back. the following day, all of the team provises because she had into everything. a grand planned to enauge the construction "when mr. prison weapons the late with the side of the river. develops and begins an and evidence to defeat kate. as the police was killed in a that humans, and he begins to decide to set out with salt and his wife. the call mank leads the next day, john and his baby begin to recover a cia fire throwing not to a restaurant to make
+
+----- diversity: 1.0
+----- Generating with seed: "ight in his bed upon discarding her clot"
+ight in his bed upon discarding her clothing care. elias reveals that clive working in a boarding power to will the performance. megster shows up to jessica. sam then sees a fire of a cold but sitting the reject of the picnation of his life gang the demand, he tells her that he will not take an ocel both floricemen. the next day, she is about to cannot attend school and learns to be a parring and head on a black of mass from sneeper, gargamel and sam had escape. kelly going to be her not be killed in the chimm. he is the masked but returning to [[los angeles]], attempts to return to earn marker, which cars let her place assions and asks him for successful when him steps up for for the first his mother. "mir║uner by elise seems to rooknape at not as kevin lou husing back into the show to the same years, his father's life is value
+
+----- diversity: 1.2
+----- Generating with seed: "ight in his bed upon discarding her clot"
+ight in his bed upon discarding her clothing spire. they are both rafegard. he and tommy is new yergue. nick goes to the [[stock party]]. norman kills two skare of his arm girlfriend, mary explains to at the develing her clear. she tells him that it was violently atticted to and holds him her husband's amy senting the car sister. sill uncovering jack discovers a story nansmating and takes the ship and sees his father. after invites him to mastance married the file-but runs out of the house in the performance. nick goes home and married snesser, s6ities is revealed a relationship, which impanded repoint the doors agoing the loss of his mother. he confronts matthing that the start in dresser congrabult, including a teenager who varies sumner captain exploits encounter, and larry has no apologice and perseful defeat megarry, where 
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.3663
+Epoch 2/5
+412590/412590 [==============================] - 647s - loss: 0.3616
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.3591
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.3552
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.3518
+
+----- diversity: 0.2
+----- Generating with seed: " and turns back, accompanied by luko. as"
+ and turns back, accompanied by luko. as they are about to kill nickle's house, and says she is about to be make advented from martha killed door and begins from a small of the footage steps and has stripged by a christmas elf before he can continue their next go of the prisoners and into a relationship, despite the truinger in the guose, charlie and the coppers for realize that michael was promised when he dies. jack and mary detise in the barn with him. he reveals that he had about the hering victory and confronts him, calls in a long rulation series#jen, earlier and artisti in versard, she goes onto to see him earrier. joseph gives him schmedtic study block dogs her. instead, she says her away from his wife, marmaduke then returns to his family, they free from a [[window-look]] and the [[winson, maskette]] is because him to p
+
+----- diversity: 0.5
+----- Generating with seed: " and turns back, accompanied by luko. as"
+ and turns back, accompanied by luko. as they are about to kill nicklee, cargerabed by elizabeth and soldiers from into a stripger. defeats the newscaper in the process. defent his boss and an argument in the beach, and retrieves a call from it. %end%
+
+----- diversity: 1.0
+----- Generating with seed: " and turns back, accompanied by luko. as"
+ and turns back, accompanied by luko. as they are and destroys the house, leaving them to subjued the goose's shed and telling him to help her in the street, at a colleague papt where he gets them out of the house where he is still engarted to allow him to see her over by ros's coundering people who had gathed smith to the hospital to saket the money from his girlfriend.he need to return to the hotel in the first time. the military men allow him as phil primary. she presents a secret full murder, persevation in smaller-dying blackmeon into another wolf. at the priest, he has faced by finally, is getting more suspected. matt slays katha in the house, of the third, gathering how the alien stating, they are in a real yor to recreate a cobbee who was dislocated into a fight in the final she destroyer him, which makes him a nearby ho
+
+----- diversity: 1.2
+----- Generating with seed: " and turns back, accompanied by luko. as"
+ and turns back, accompanied by luko. as they are frustured by charlie and the amnesia tvanser in jones. the the's new vast is quickly smill his gradmall town.the next day they power, who rejects her, but they are all the biggydeny and the truffles will like s│red. the speries dod's ship, continues to move in with him, but bernie colples moming and is encourated the the nurge of the position as robbering happen his safe sends they explain that their in novem. sabbing his drawice of his crime decidest.  parker goes back to jail and saves the pisa ╢aking comminto.s the disparent is given a way to his boxs. not rachel, a chipmunks including a mage him and explains that he has fanty that avery chooks out the winness with a school that eventually him edetating her when nothing away from his job in the process, but they name him in th
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.3454
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.3426
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.3370
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.3358
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.3339
+
+----- diversity: 0.2
+----- Generating with seed: "a brayson tries twelve for the first tim"
+a brayson tries twelve for the first time and leaves him into the airport where he decides to be sitting to see and leave towards the band with a hands with a heart, and becomes distracted by a fierce both of them and their relationship. after a sure of a marsis lade. the gun protects are the explosive and goes in ond with them. a shirld father and his to an abart and hold him at his home, she decides to stay at the heart after the world of a conders and sees his iranship with his scholled in a date with police on the ramona. cherge is then then but not only stabbing her into the school at a college section team. they find his son, making it contact when he says that she was a gonsic later and intended to sell the party to the a real lives. at the story in a school parky cland to call him himself in the shower and causes her to 
+
+----- diversity: 0.5
+----- Generating with seed: "a brayson tries twelve for the first tim"
+a brayson tries twelve for the first time conniving see and loves and can stand on the street, the creatures in the film. phil and bernie kills erective the school.memplose states aaron and realizes that she is able to finally use the recovering and leaves for his sent to see her and later that sara is a little e.inselver recognizes for resistance of puptimation by a member of a [[black maracu|male|possiclet]].mally will send them on a date with each other. matt tells katain that the sheriff brokee people finds in the valee if he receives a child with popularity, he works at the animation with his father, cases her helps to find junior car in order to see the day, is she is being holding onto a marriage prom.the beaver go of the deception, as the trio intends to be several house. after finding wowand, riding a [[counterpulation|
+
+----- diversity: 1.0
+----- Generating with seed: "a brayson tries twelve for the first tim"
+a brayson tries twelve for the first time and phils his son as he leaves the band in palic point to number benny.to watch molly who story is now in and assures john's insent to see charlie and gavill planned to truck a school at a news ure clears and jenko was married, the testage is reingtional seeking authority of a still and with it's local time for this, who was changed to courderer and is shocked to her with a pilot cat party, and drives that he is captured by a head trien, explaining that the feeling entire situation, the isable places a house of prospection, brend and reachet him to find a book and plan to have previously become expposed officer and explains that he will not make a job in a doctor about her if he can say they wrent away from the hermiand. after macting in the shocks face. she then shoots him along with fo
+
+----- diversity: 1.2
+----- Generating with seed: "a brayson tries twelve for the first tim"
+a brayson tries twelve for the first time counting, and to accept the revenge of the e3plosion being discovered, due to an argument on gagger in naile. he decides to call from it love is being maging $╝whough to as a home of whom the siúulty promising his command can packather mustage and pearls in fact."fend" ëeread-2d a way to a different was to go to the hospital to she persead not stair and his sister arrives and then he told him. while was the kill. how getting never make a protect due to her intention to part she will not the port, but not only pupps her below in killing a. he discovers that she is given to a last junior man village and painjer comes on their friends and asks his old base and aecplying him back to her parents of [[doggever]] of [[covicange|cives]]. he explains that hold has left the house of prospictment o
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/5
+412590/412590 [==============================] - 645s - loss: 0.3273
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.3243
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.3187
+Epoch 4/5
+412590/412590 [==============================] - 647s - loss: 0.3171
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.3149
+
+----- diversity: 0.2
+----- Generating with seed: "gests that percy go to mount olympus to "
+gests that percy go to mount olympus to convince zoil the two nathan bring dome to his mother's corthing car in the help of mentally cartic later and soldier that she loves him, and the vice-all tries to prevent each other, and that he was also all the water but informs emma of her family -"year" and darcy leader to be a the book of medications of a [[datiratiration raper]]. he is about to leave floor and sees that he is captured by the decepticons to assault them to the officer; she reveals that he had to chase a music attack and will be moving to [[chucafo]] which is leaved as a [[couplet mentalling|presentering]], but the boys arrive at the world of suspected rauler and his secret care he is distracting him. soon and sara opens a good leader of a good like the day where he encourages back to concine with the help of at the pa
+
+----- diversity: 0.5
+----- Generating with seed: "gests that percy go to mount olympus to "
+gests that percy go to mount olympus to commit the muppets and realizes that he is given to her father back together. the school professor arrives and tells him that he was a baby beloz the birthday party. the team returns to his work to chee professor rochy with a bemant to discover that it is a [[cameran]] relationship with his career ragger in date's she was sent to ensurve visitions and in the mention and the rest of the men. the film ends with them he is distaken with the women basement for the carn and leaves him in a relationship with his career. when she returns home, he finds himself in which she notices her back into the sease control of the garage barisman materian in a [[statemy of the processian bomb|gance]] and the thing storm of where senting they are forced to leave the prisoner of where he tells her he loves her
+
+----- diversity: 1.0
+----- Generating with seed: "gests that percy go to mount olympus to "
+gests that percy go to mount olympus to comperve rogers and his men to lead them, and the grave asks her where he can feel so that she was another way out. he flees to rescue his mom on their work. when they go home for good foo a love pirece. he arrives up the spow and got ¿ockking and sanderson to dance, before with killing him.beth on gangs making the country and gret with her news crushes and loves it. when he and benny is really locate lucas the ''urica's men, admort for coming scream and contents him, and the submarine can reluctant the new start with him, she tells him that she is no longer with her mother. clive because he is made the refreemed, dead and rising with pail being him back godd. while he is to deace up when the side of a heains approaches, and seeks a fire danger of blocking to her destiration explains to th
+
+----- diversity: 1.2
+----- Generating with seed: "gests that percy go to mount olympus to "
+gests that percy go to mount olympus to stop shen. back with containing a bright, but her performing are rescued by the braderess calling har, their children about will and larry there. they learn that she noticed the best until he finds a front down to have was voluns with charley and kuck. he calls for rogers car indo excities the entart firm sacrifices in his efforts to get jodies to detenting their pursuations and is in los angeles place nick and rogers identifially arrives and inhersing him to be his pursuit by fearing that she mentinates him to his support from the creatures and leaves to late's fabious crime because of his lack of arilities. after larry open the opport and pay for her feelings for his father's including daggy, and garce metal is dean, and battle falls into his his friend caused the doctor. after a fire at
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.3110
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.3060
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.3038
+Epoch 4/5
+412590/412590 [==============================] - 646s - loss: 0.3003
+Epoch 5/5
+412590/412590 [==============================] - 646s - loss: 0.2951
+
+----- diversity: 0.2
+----- Generating with seed: "they are eager to take one last run down"
+they are eager to take one last run down.urmanttent, with the addiction, danny mckenny ([[boston sallaw]]), a friend [[list of camp half-blood characters#alice babysoll ([[mex marison]]), the dead ends who then believes he is a relationship. ainte realizes that he is the only one who the two have a man with the footage, [[rachel (actor)|adriana]]), who parts a put to the first time she persuades all to the porn. but fild all she takes a little his books with a strange he can reconcile, with message that character has to run location and that he will support her into her by danny claude to cheevengus killing her. during the end, she sees a picture of his life, and he asks her to marry him to continue performing and has a mixe to kill him. jacob returns to the hotel in the parking chet claim begins to come in the work to kill emil
+
+----- diversity: 0.5
+----- Generating with seed: "they are eager to take one last run down"
+they are eager to take one last run down.urmantte and cindy are seemingly to search oryman when he is to deterning the following day together, which causes her to make sal. they start the helicopter russing for not talent a coward with forces market, he is trapped and ally. he meets his wife, and she is reheaded by a fight in the [[sweriel]] in the two with a wedding. he confesses her head and killed in a car chase there from winnersh proposite of the [[realize]] to order him to stay, which the autobots he sails her house, while he forms common a radio and she didn't the martians control of his dad and his mother and having traveled to a [[chere buthon]] and a [[mentalled care queen|catic shame]], and that the same months later, he sells the help having a near-year-old sentine magical artist, in the [[cover]] men follow to the s
+
+----- diversity: 1.0
+----- Generating with seed: "they are eager to take one last run down"
+they are eager to take one last run down.only quitting a while greg àtwo fires night and eventually finding her at the door to see in fere. they continue to fight, but gives out the bvaugh at the papartment, he can suffered from his job of an endangered cassaul. james comes some corpus downs the remains of their marriage long must late judy vermen shows a picture of [[molla]]. john goes out to call him about the direct of the civilians after an illefform to dischore in a fight in the [[sward brother]]. hobstage fand in darce as the company is shocked to her parents.  to stay while he manages to escape for help, also a christmas elden and chase after hilly encounters another clinic, he can refuse, so she has conspired with him, as the rest of the gamage contains and leaves him into a restaurant to her parents. chiles ends again l
+
+----- diversity: 1.2
+----- Generating with seed: "they are eager to take one last run down"
+they are eager to take one last run down.armon and unbeknown trainer lucid about the vergean in playens. the parace skips out of monther tango do not as kevin is turn up, but santiis refuses to continue to detuan a job, where sa asted to him in the heep of present representing and allows her to be but she is but becomes about to invest younger that nick is promoted ▒[[[00x ind]] events of the eriks sent to the other owner the }unknower's hand, and however, the two serve as head in the union, school and len but before she can turn cluar. the ''car fight"". after commination of nick time comes away her end of each other. alice and convince her not _eddan, 's conspirator a frozt "kow scott the populair to the benefits of the masketermining sald, but josh suwers and the two house after killing police herd, his shire parts out to any
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.2947
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.2892
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.2865
+Epoch 4/5
+412590/412590 [==============================] - 646s - loss: 0.2842
+Epoch 5/5
+412590/412590 [==============================] - 646s - loss: 0.2833
+
+----- diversity: 0.2
+----- Generating with seed: "o orders his men to kill schmidt and jen"
+o orders his men to kill schmidt and jen's father. he contacts her and questions him and the thing can into a hotel for her friends and adventing the restaurant to help him arrest him for daily relationship. he meets himself at a seditie service stroulle. one of joe and her boyfriend promises to give the footage of for her father's mother and are in the force. he finds her at the loss of his mother's clark, which causes her to locate the shrink ray in his death when new concere his ship, in the form of allowing her until the power weeks away in a possible and are seen death, and the train stays to commandie record by the logethan to company the demonic entire from the creatures and asks him to arrive at the hospital, where they find that a wedding was the book of medical ending like the was they wan to say they for her all to se
+
+----- diversity: 0.5
+----- Generating with seed: "o orders his men to kill schmidt and jen"
+o orders his men to kill schmidt and jen's former and are the message children and a crucifix roules release of the process. work to verying the base boath and raps as a secorol of his friends, funding his dream and carling him goes because she had got a restaurant experienced profits and as he leaves to be an artralled business. while the others come to find a way to them all. in the end, she shoots more who hears planed with daring. carrie accepts the green of the but winnesses and he and stevin explain to him the stripper, where he tells her that he has no killed him. at the home, charlie promises semmer soon cannot be rememberated by a flier. at the party, eddie is sent to rescue him from her owner. the support visit of some members follow the ping beater at a teenagort to win on the train and that the blast side they have a
+
+----- diversity: 1.0
+----- Generating with seed: "o orders his men to kill schmidt and jen"
+o orders his men to kill schmidt and jenna ([[annay wallow him]]) spends himself with the book and sects everyone. rogers later meets with the chipmunks instractions agents and fell is love to her. benny is instibute. after arriving at the hospital, who has come to travel in school, but then the only way to get clust students a fnomenical car. she asks josh to mare into the party, she penelves as a very start and asks him to meet s grandmook facility with a former chashed of new menistress and assumes that he is promised to get the possible and a medical tenter, corremate she discoveres that he has not change from cohron, and begins to build the land. kelly is several of the officer. the sever discovers that she would reind. as the film ends with the truffle end, she and his too arrest him from represention<". joseph talks that 
+
+----- diversity: 1.2
+----- Generating with seed: "o orders his men to kill schmidt and jen"
+o orders his men to kill schmidt and jen, bennett, and the conviction, go assauling a secret fighting manunh to be empty of united states in the underworld, and he finds her father's Ñelligation, car ([[emils jud]]) he helps her plans to start, palling out of coopie to other while unlesshing as he ómpausses when he was an inbutconnect inspectation, where they see sara had a freewherm with peance. they are told among and the truck britt rescue adam. deen explains that a stunned men, who is on a head not to avere a possible unknown. the final scene wells erjatted in a [[battrophing beft jast ÿ_sue-news|show]] and the story florical and smare the exchange. he is then shot out to a house and asks what traven over soldiers fake and o!ters 10ô contactive police erenge rock. when religious guilt avoid a worthy saying peter right of the
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.2795
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.2755
+Epoch 3/5
+412590/412590 [==============================] - 647s - loss: 0.2727
+Epoch 4/5
+412590/412590 [==============================] - 646s - loss: 0.2707
+Epoch 5/5
+412590/412590 [==============================] - 646s - loss: 0.2676
+
+----- diversity: 0.2
+----- Generating with seed: "child support money, and supplies for he"
+child support money, and supplies for herself from his age, kitches from a story about a lang-can on a most of lake. meanwhile, paul turns to dinner and then discovers that he has no deal to flee with causing grace and the other stress in her earlier. martine realizes that there are over he loved and returns to his hand. they get him for the way, which meets captured as a way to the next day. john gets a result as a head of the hold, but his own result and her husband, and she agrees. to responsite their new boys show and kills while he returns home and realizes that he is given to him. he returns to his home of their own dan, meet rebecca in the train. he recalls that the party is a marriage patient rating and suspects steve and safe and book sell on the train and that the killed number of sandra or her decepticons from her dea
+
+----- diversity: 0.5
+----- Generating with seed: "child support money, and supplies for he"
+child support money, and supplies for herself from his jacker ([[tomas ching]]) who lives with a snow-allowing [[while world war is action with the virgin dealing to see on his party of ambush. the way has been michael from his love, and takes him to a building safe to perform the his death on having come to kill her freed members from the train and that the strips start a shown procitial [[marianna jason]] and is now a proclaim and that he was well. catherine and the chance throw aught she was a lock of his friends town. they shoot him in the help of flying planning to demand. he arrives at matting but before she can unleash perfor series to protect him. after a teacher say he was not interview. as they believe it would be forced to do while jenni tells him that dave did to his high and begin taking a bottle him. when the unite
+
+----- diversity: 1.0
+----- Generating with seed: "child support money, and supplies for he"
+child support money, and supplies for herself from his 10,000, schemous way keep a master support. kyla is informed by = ìounder [[ganz momic |red dases]], the police officer [[american somet]] is a sun, but listening a defend plan to be the newest of the reality hasing victor, and they have a three-messe company with haller to signeship by carce chemily, gods, but mains in and offers him to drive to his good.meanwhile, who has medtion settend as the feesing they have to live with the children. as the knight learns that the alzer has a sty foud of some is number. matt is unarked recognizes from the truck and plan to keep the principy on the children for mary, in a large father john known the mountain in the [[cross emplotion indjeane]], iranda ([[shell kinnon]]), and mistaken greene, was and his wife decides to play the black wi
+
+----- diversity: 1.2
+----- Generating with seed: "child support money, and supplies for he"
+child support money, and supplies for herself feeting when kelly is lifes for a reluctant with sarah and is supervised of asked se% by company, one of the drinks say on this that he had been encounted with a led by his possessed for daing, which accounts king from dave suspected. escapes rouler accident and weanled, the police are attacked by a second changes with a job. emily sumens, but she can some the fight but nathan doesn't have a heail go to his father when break into united states to take the interrip. joseph and garry try at the barry with a vince can young get with a former chasitiences, who has been paining up to give up discovery rung║abom while the other detective jod learns that will be killed for the persead of his hifd. the teven gave interrupted by his father, cases because , now programdman ([[mary malof]]), wh
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.2653
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.2614
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.2611
+Epoch 4/5
+412590/412590 [==============================] - 646s - loss: 0.2580
+Epoch 5/5
+412590/412590 [==============================] - 646s - loss: 0.2537
+
+----- diversity: 0.2
+----- Generating with seed: "he house, roger's college-age niece, sar"
+he house, roger's college-age niece, sarah ([[brienny cay]]), who is to see if from the process. after to find a weapon capture that he is about to be in the scene. frank calls carting to prove in the scene. the group is trapped about the first time to team him. they arrive at the spirit ends with the distance. charlie and nora manage to tell him that she is graved into a hotel again during the presince theur had given michael from kirk when nick takes his mother in the second when nick finds a drug in the airport, she finds himself in the final school that he is a good leader a friend who has been missing from the perfection, during the credits, which they are all [[elver world trade serves inter starts]]. she suddenly forces his new joseph and intentionally ends and realizes that her friends start a riller back he meets emorit
+
+----- diversity: 0.5
+----- Generating with seed: "he house, roger's college-age niece, sar"
+he house, roger's college-age niece, sarah ([[brie trish]]). they see sam is roger's best friend, sleeping with an inspact of the supposed students to see the real liestering to raped some experiment with the rest of the criminal spending like her. all a crime spends the new like the day and they end up the car and sees to help of the secret ever life. the next morning, in day, she takes the masket with the burrie. john and his mother sent the truck and spares their self-dert and his mother and have sex with him. he decides to travel mind the ball under anna where the train explains to prison with their family before meanwhile, juliever older sister is a $[5willie boul]] sparent and danny is killed by a bring of the source of the reunionnom with a school priest of his priercy, but the band are to change agains and asks him to al
+
+----- diversity: 1.0
+----- Generating with seed: "he house, roger's college-age niece, sar"
+he house, roger's college-age niece, sarah ([[brudalia pike]]), the death of his bioty safe [[list of camp in order zoes]]. they bay ╢obsis and goes to put him and explains that they want to figure out his life and dies and has been able to shame up with him. he then pays in his head to keep his car encounter, marni is undergodvy sent not to escape. one night, they have a bleeding down and could not told him. when he does not have a chance ensuing in and flee to lou and he has not been she agent had been appeared, and they seek more problems. when she finds out that she new break realizes his father, pra. after being shooting his funeral times son. he finds aback that the same spriors in [[calica leader]] and [[free train]] he still has his prisoned with $2604. during events, in an attack viewing amy to avoid with the restaurati
+
+----- diversity: 1.2
+----- Generating with seed: "he house, roger's college-age niece, sar"
+he house, roger's college-age niece, sarah feels that she and her boyfriend proves him outside to make her own. bring turns to a full-rate nated day and the morning to put for several hights from her pay party, after seven says in a [[minkoy celes]], which meghards the tesseract frout, but she can't form pain and suspects nathan and family to the creatures when the .í. lilly discovers that his mother soldier weeks in in a fire nation, and returns to his husband, and makes a cave ffo the car. robber and berife get about to infiltrati getting the fords foy them on the other side of the family. she can summer sof¿, and is sent to the rash for his backyard. when charlie reass prepares to leave althual to any son to use marcus' which is frustrated to him and keeping into the [[horse ¡argive]]], and a housewiske and soon meeting to wi
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/5
+412590/412590 [==============================] - 646s - loss: 0.2525
+Epoch 2/5
+412590/412590 [==============================] - 645s - loss: 0.2510
+Epoch 3/5
+412590/412590 [==============================] - 645s - loss: 0.2471
+Epoch 4/5
+412590/412590 [==============================] - 646s - loss: 0.2451
+Epoch 5/5
+412590/412590 [==============================] - 647s - loss: 0.2426
+
+----- diversity: 0.2
+----- Generating with seed: "am has to infiltrate it and hold off the"
+am has to infiltrate it and hold off the strange person he has returned to [[save break]] where he meets with [[spiper]] made out the window of the lover, detective her business shappill promines are falling on the ice and the red locked reporters of case for his best friends recording the red land. the next day, danny as her death ranger to keep she responds, as depited may he should not be also really behind in the alsehonical gath, his mother discovers that he has been reported with his sep of the past, destroying the baby to leave elison as the family will not have the song they from her death and the team him in the water, but save not changes are stolen. from the battle, of the thing cannot meeting the house, they discover a scream to encounter serie. meanwhile, emma is controlled by joe and develops a relationship, and en
+
+----- diversity: 0.5
+----- Generating with seed: "am has to infiltrate it and hold off the"
+am has to infiltrate it and hold off the green stay in the heid of her business calls a small into scott, and he and joan's exchange for planned the determine of the were of the larner. mirse reveals that the car is he will be fire. the united states in the foot sole, but as they are arrested.sex for the months back in the hospital, but says she loves him and kill he sweats down up, then she sitses, which reveals him to meet feelings for each other, and save as a respective of her life, but he shows up at tim and sees his insisting that he had made to them. starting to find which he did not help him arm the beat fire to go out. he finds a land find that rous accuses more disappointed. when the plan weeks in his experiment with her personal secret. force moving to the gunshot to and a mar from having sex with him. he reveals that
+
+----- diversity: 1.0
+----- Generating with seed: "am has to infiltrate it and hold off the"
+am has to infiltrate it and hold off the move, he can return to response. brian reveals that he not steal the subsequently discover early is caught because she job-ins jury party, all the three murder his arm again at a corner. she explains that position is returned to instead of the mountains but find her own bary, where the reality deconds a new offers and repossibly retrieves his break into the children. the team believes that curtished by fred her involvement in the middle of the ragical police. later, the peris notices sex from the instial time after they end up with only new lince but sees in the house and she admits to be a destroy she interrupted with his friends and park earth to his while detending for evideoppe ([[fedna wation]]) and first estral from the reduling entare for heling at gun, as the streets job and tells
+
+----- diversity: 1.2
+----- Generating with seed: "am has to infiltrate it and hold off the"
+am has to infiltrate it and hold off the green stay in the house of several people left, and the tournament can be sey, using the valley of prom.the turnon lou finds erin being a massive title huilies. an unknown, chearlous, despite him egiculy promised dead. as they see say of his father when break receives from the loud of slake the creatures when the airpor intervents by delivery for a femane and loves and she and di, not reconnice a series of viki at a police officer for his own boat. the supervisor are bosh paired and becomes murders.  cars reveals that the dan hears later kicked of her parents and grace both are amsonage knowl off. when the team ends with guardia, chery, but she canges the vicgims with ual. jack and jake tell him blast to do so. they photos all the elephone named defended juck but he is about to detage the
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/5
+412590/412590 [==============================] - 645s - loss: 0.2413
+Epoch 2/5
+412590/412590 [==============================] - 646s - loss: 0.2397
+Epoch 3/5
+412590/412590 [==============================] - 646s - loss: 0.2362
+Epoch 4/5
+412590/412590 [==============================] - 645s - loss: 0.2348
+Epoch 5/5
+412590/412590 [==============================] - 646s - loss: 0.2357
+
+----- diversity: 0.2
+----- Generating with seed: " the season, the athletics fare poorly, "
+ the season, the athletics fare poorly, later learning that he is now called but personal sees the various change and beat up in finding his death. the night learn the family is still unconscious.the man is roger with a party. the next day, priest, and the blast call of sam into the united states in the face of a series of visiting her of the desert, during a victory and the house of porson saying the sort beat unender for his creatures. anderson gets a trip to visit jamie to the driver's room, in the [[forerand calls]]'s money and drack sexually escape.she suddenly proves that he was alien to wait harry and calls his daughter and encounters another classmate, mary wants to attend and he leaves to be a subleede. eucy refuses, saying that she not the baral into the warlion before george of [[metachites]] has a true for another ti
+
+----- diversity: 0.5
+----- Generating with seed: " the season, the athletics fare poorly, "
+ the season, the athletics fare poorly, later learning that he is now called ball. meanwhile, molly in a streather has had getting matt in order to stay in the search for the aunity and confronts laulably delivers a thene is on his mother and she sees a mission to [[rogar's president]], and he and several occuer from [[massah hamphhhon]], and a conversation beau confronts him, causing him to prove with his sep of another time service, remy's concile as a child, revealing that he is recording him as a major pawel. he sees a girl, and that he may be have a fallen for door which causes him to meet her for her dead.attern with the dad on her and they become a support who has no ine-putal devis alerticing his craig, and starts a surprise and invites him to make his pecicion. after his parents are a struggling creature and learns for 
+
+----- diversity: 1.0
+----- Generating with seed: " the season, the athletics fare poorly, "
+ the season, the athletics fare poorly, later learn from the truck and dreams him in the work to kill her and he believes her in a station service, and as an ipportation of her son, but is surprised with and part of the following the car of leaving, he and nico male young him on the [[sing-share]]. soul is commanical life and land to be in the uncown. %end%
+
+----- diversity: 1.2
+----- Generating with seed: " the season, the athletics fare poorly, "
+ the season, the athletics fare poorly, later visits jason that he joins her mother, survived that greene can the only with which they ded until the martians not rebeck to john by her love, his house, rushes on fire fuel. in the ccurse in on her, which malcolm realies hos.emily shows up and tricks them but can only as the late fighter. they su¥poved it back and morting and punches the garage for a singhel -[[brodutes]] containing a superizencer ([[ante-statito]]) tries to feel sara for him and has never supporting and rebuild him, he is diagned by angela and he sees up with garden and informs zim store gone to a provering call and shows her in the restaurant to new york and discover that sara is missing carl ends auntha, who is now no one with upset mexican in jack home and seek up while the cash of the brother is visiting him a
+
+--------------------------------------------------
