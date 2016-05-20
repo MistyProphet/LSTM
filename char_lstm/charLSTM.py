@@ -12,6 +12,12 @@ import sys
 import os, urllib, csv, itertools, operator, nltk, re
 import cPickle as pkl
 
+
+if (len(sys.argv) > 1):
+	arg1 = str(sys.argv[1])
+else:
+	arg1 = ""
+
 target = open('movie_plotsWiki.txt', 'w')
 genWikiCnt = 0
 genWiki = open("genWiki%d.html" % genWikiCnt, 'w')
@@ -140,7 +146,10 @@ for iteration in range(1, 200):
 
 		
         generated = ''
-        sentence = text[start_index: start_index + maxlen]
+        if (arg1 == ""):
+		    sentence = text[start_index: start_index + maxlen]
+        else:
+            sentence = arg1
         generated += sentence
         print('----- Generating with seed: "' + sentence + '"')
 
