@@ -12,20 +12,17 @@ import sys
 import os, urllib, csv, itertools, operator, nltk, re
 import cPickle as pkl
 
-
+# saving the argument
 if (len(sys.argv) > 1):
 	arg1 = str(sys.argv[1])
 else:
 	arg1 = ""
 
-target = open('movie_plotsWiki.txt', 'w')
-genWikiCnt = 0
-genWiki = open("genWiki%d.html" % genWikiCnt, 'w')
-genWiki = open("genWiki%d.html" % genWikiCnt, 'a')
-
+# read the movie links from file
 with open("movieList.txt") as f:
     content = f.readlines()
-    
+
+# prepare train data
 docList = list()
 chars = set()
 maxlen = 0
@@ -144,7 +141,6 @@ for iteration in range(1, 200):
         print()
         print('----- diversity:', diversity)
 
-		
         generated = ''
         if (arg1 == ""):
 		    sentence = text[start_index: start_index + maxlen]
@@ -165,14 +161,7 @@ for iteration in range(1, 200):
             generated += next_char
             sentence = sentence[1:] + next_char
 
-            # sys.stdout.write(next_char)
-            # sys.stdout.flush()
-
             if '%end%' in generated:
                 break
         print(generated)
-    # genWikiCnt = genWikiCnt + 1
-    # genWiki = open("genWiki%d.html" % genWikiCnt, 'a')
     ###########################################
-#model.load_weights('my_model_weights.h5')
-#model.save_weights('my_model_weights.h5')
